@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\picture box\picture box\bin\Debug\netcoreapp3.1\picture box.exe
+C:\Users\ADMIN\source\repos\picture box\picture box\bin\Debug\netcoreapp3.1\picture box.deps.json
+C:\Users\ADMIN\source\repos\picture box\picture box\bin\Debug\netcoreapp3.1\picture box.runtimeconfig.json
+C:\Users\ADMIN\source\repos\picture box\picture box\bin\Debug\netcoreapp3.1\picture box.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\picture box\picture box\bin\Debug\netcoreapp3.1\picture box.dll
+C:\Users\ADMIN\source\repos\picture box\picture box\bin\Debug\netcoreapp3.1\picture box.pdb
+C:\Users\ADMIN\source\repos\picture box\picture box\obj\Debug\netcoreapp3.1\picture box.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\picture box\picture box\obj\Debug\netcoreapp3.1\picture_box.Form1.resources
+C:\Users\ADMIN\source\repos\picture box\picture box\obj\Debug\netcoreapp3.1\picture_box.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\picture box\picture box\obj\Debug\netcoreapp3.1\picture box.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\picture box\picture box\obj\Debug\netcoreapp3.1\picture box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\picture box\picture box\obj\Debug\netcoreapp3.1\picture box.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\picture box\picture box\obj\Debug\netcoreapp3.1\picture box.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\picture box\picture box\obj\Debug\netcoreapp3.1\picture box.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\picture box\picture box\obj\Debug\netcoreapp3.1\picture box.dll
+C:\Users\ADMIN\source\repos\picture box\picture box\obj\Debug\netcoreapp3.1\picture box.pdb
+C:\Users\ADMIN\source\repos\picture box\picture box\obj\Debug\netcoreapp3.1\picture box.genruntimeconfig.cache

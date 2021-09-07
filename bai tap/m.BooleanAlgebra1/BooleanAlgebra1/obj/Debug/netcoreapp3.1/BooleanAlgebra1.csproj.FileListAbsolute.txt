@@ -1,0 +1,16 @@
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\bin\Debug\netcoreapp3.1\BooleanAlgebra1.exe
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\bin\Debug\netcoreapp3.1\BooleanAlgebra1.deps.json
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\bin\Debug\netcoreapp3.1\BooleanAlgebra1.runtimeconfig.json
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\bin\Debug\netcoreapp3.1\BooleanAlgebra1.runtimeconfig.dev.json
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\bin\Debug\netcoreapp3.1\BooleanAlgebra1.dll
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\bin\Debug\netcoreapp3.1\BooleanAlgebra1.pdb
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\obj\Debug\netcoreapp3.1\BooleanAlgebra1.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\obj\Debug\netcoreapp3.1\BooleanAlgebra1.Form1.resources
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\obj\Debug\netcoreapp3.1\BooleanAlgebra1.csproj.GenerateResource.cache
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\obj\Debug\netcoreapp3.1\BooleanAlgebra1.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\obj\Debug\netcoreapp3.1\BooleanAlgebra1.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\obj\Debug\netcoreapp3.1\BooleanAlgebra1.AssemblyInfo.cs
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\obj\Debug\netcoreapp3.1\BooleanAlgebra1.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\obj\Debug\netcoreapp3.1\BooleanAlgebra1.dll
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\obj\Debug\netcoreapp3.1\BooleanAlgebra1.pdb
+E:\vs\save\bai tap\BooleanAlgebra1\BooleanAlgebra1\obj\Debug\netcoreapp3.1\BooleanAlgebra1.genruntimeconfig.cache

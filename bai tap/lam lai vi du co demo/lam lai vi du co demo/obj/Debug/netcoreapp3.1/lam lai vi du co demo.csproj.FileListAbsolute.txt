@@ -1,0 +1,17 @@
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\bin\Debug\netcoreapp3.1\lam lai vi du co demo.exe
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\bin\Debug\netcoreapp3.1\lam lai vi du co demo.deps.json
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\bin\Debug\netcoreapp3.1\lam lai vi du co demo.runtimeconfig.json
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\bin\Debug\netcoreapp3.1\lam lai vi du co demo.runtimeconfig.dev.json
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\bin\Debug\netcoreapp3.1\lam lai vi du co demo.dll
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\bin\Debug\netcoreapp3.1\lam lai vi du co demo.pdb
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam_lai_vi_du_co_demo.LoginForm.resources
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.csproj.GenerateResource.cache
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.AssemblyInfo.cs
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.dll
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.pdb
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.genruntimeconfig.cache
+E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam_lai_vi_du_co_demo.txt.resources

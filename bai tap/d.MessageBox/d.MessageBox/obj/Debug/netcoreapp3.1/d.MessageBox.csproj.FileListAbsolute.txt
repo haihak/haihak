@@ -1,0 +1,16 @@
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\obj\Debug\netcoreapp3.1\d.MessageBox.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\obj\Debug\netcoreapp3.1\d.MessageBox.btnsaprai.resources
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\obj\Debug\netcoreapp3.1\d.MessageBox.csproj.GenerateResource.cache
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\obj\Debug\netcoreapp3.1\d.MessageBox.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\obj\Debug\netcoreapp3.1\d.MessageBox.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\obj\Debug\netcoreapp3.1\d.MessageBox.AssemblyInfo.cs
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\obj\Debug\netcoreapp3.1\d.MessageBox.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\bin\Debug\netcoreapp3.1\d.MessageBox.exe
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\bin\Debug\netcoreapp3.1\d.MessageBox.deps.json
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\bin\Debug\netcoreapp3.1\d.MessageBox.runtimeconfig.json
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\bin\Debug\netcoreapp3.1\d.MessageBox.runtimeconfig.dev.json
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\bin\Debug\netcoreapp3.1\d.MessageBox.dll
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\bin\Debug\netcoreapp3.1\d.MessageBox.pdb
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\obj\Debug\netcoreapp3.1\d.MessageBox.dll
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\obj\Debug\netcoreapp3.1\d.MessageBox.pdb
+E:\vs\save\bai tap\d.MessageBox\d.MessageBox\obj\Debug\netcoreapp3.1\d.MessageBox.genruntimeconfig.cache

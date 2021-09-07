@@ -1,0 +1,16 @@
+E:\vs\save\bai tap\j.Tab control\j.Tab control\bin\Debug\netcoreapp3.1\j.Tab control.exe
+E:\vs\save\bai tap\j.Tab control\j.Tab control\bin\Debug\netcoreapp3.1\j.Tab control.deps.json
+E:\vs\save\bai tap\j.Tab control\j.Tab control\bin\Debug\netcoreapp3.1\j.Tab control.runtimeconfig.json
+E:\vs\save\bai tap\j.Tab control\j.Tab control\bin\Debug\netcoreapp3.1\j.Tab control.runtimeconfig.dev.json
+E:\vs\save\bai tap\j.Tab control\j.Tab control\bin\Debug\netcoreapp3.1\j.Tab control.dll
+E:\vs\save\bai tap\j.Tab control\j.Tab control\bin\Debug\netcoreapp3.1\j.Tab control.pdb
+E:\vs\save\bai tap\j.Tab control\j.Tab control\obj\Debug\netcoreapp3.1\j.Tab control.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\j.Tab control\j.Tab control\obj\Debug\netcoreapp3.1\j.Tab_control.Form1.resources
+E:\vs\save\bai tap\j.Tab control\j.Tab control\obj\Debug\netcoreapp3.1\j.Tab control.csproj.GenerateResource.cache
+E:\vs\save\bai tap\j.Tab control\j.Tab control\obj\Debug\netcoreapp3.1\j.Tab control.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\j.Tab control\j.Tab control\obj\Debug\netcoreapp3.1\j.Tab control.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\j.Tab control\j.Tab control\obj\Debug\netcoreapp3.1\j.Tab control.AssemblyInfo.cs
+E:\vs\save\bai tap\j.Tab control\j.Tab control\obj\Debug\netcoreapp3.1\j.Tab control.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\j.Tab control\j.Tab control\obj\Debug\netcoreapp3.1\j.Tab control.dll
+E:\vs\save\bai tap\j.Tab control\j.Tab control\obj\Debug\netcoreapp3.1\j.Tab control.pdb
+E:\vs\save\bai tap\j.Tab control\j.Tab control\obj\Debug\netcoreapp3.1\j.Tab control.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+E:\vs\save\bai tap\Masked textbox\Masked textbox\bin\Debug\netcoreapp3.1\Masked textbox.exe
+E:\vs\save\bai tap\Masked textbox\Masked textbox\bin\Debug\netcoreapp3.1\Masked textbox.deps.json
+E:\vs\save\bai tap\Masked textbox\Masked textbox\bin\Debug\netcoreapp3.1\Masked textbox.runtimeconfig.json
+E:\vs\save\bai tap\Masked textbox\Masked textbox\bin\Debug\netcoreapp3.1\Masked textbox.runtimeconfig.dev.json
+E:\vs\save\bai tap\Masked textbox\Masked textbox\bin\Debug\netcoreapp3.1\Masked textbox.dll
+E:\vs\save\bai tap\Masked textbox\Masked textbox\bin\Debug\netcoreapp3.1\Masked textbox.pdb
+E:\vs\save\bai tap\Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked_textbox.Form1.resources
+E:\vs\save\bai tap\Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.csproj.GenerateResource.cache
+E:\vs\save\bai tap\Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.AssemblyInfo.cs
+E:\vs\save\bai tap\Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.dll
+E:\vs\save\bai tap\Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.pdb
+E:\vs\save\bai tap\Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.genruntimeconfig.cache
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\bin\Debug\netcoreapp3.1\Masked textbox.exe
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\bin\Debug\netcoreapp3.1\Masked textbox.deps.json
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\bin\Debug\netcoreapp3.1\Masked textbox.runtimeconfig.json
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\bin\Debug\netcoreapp3.1\Masked textbox.runtimeconfig.dev.json
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\bin\Debug\netcoreapp3.1\Masked textbox.dll
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\bin\Debug\netcoreapp3.1\Masked textbox.pdb
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked_textbox.Form1.resources
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.csproj.GenerateResource.cache
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.AssemblyInfo.cs
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.dll
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.pdb
+E:\vs\save\bai tap\b.Masked textbox\Masked textbox\obj\Debug\netcoreapp3.1\Masked textbox.genruntimeconfig.cache

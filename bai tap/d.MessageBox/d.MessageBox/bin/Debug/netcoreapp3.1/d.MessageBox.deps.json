@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "d.MessageBox/1.0.0": {
+        "runtime": {
+          "d.MessageBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d.MessageBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

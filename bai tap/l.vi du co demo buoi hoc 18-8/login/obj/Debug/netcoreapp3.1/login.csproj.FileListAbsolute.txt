@@ -1,0 +1,34 @@
+E:\vs\save\bai tap\login\login\bin\Debug\netcoreapp3.1\login.exe
+E:\vs\save\bai tap\login\login\bin\Debug\netcoreapp3.1\login.deps.json
+E:\vs\save\bai tap\login\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.json
+E:\vs\save\bai tap\login\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.dev.json
+E:\vs\save\bai tap\login\login\bin\Debug\netcoreapp3.1\login.dll
+E:\vs\save\bai tap\login\login\bin\Debug\netcoreapp3.1\login.pdb
+E:\vs\save\bai tap\login\login\obj\Debug\netcoreapp3.1\login.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\login\login\obj\Debug\netcoreapp3.1\login.Form1.resources
+E:\vs\save\bai tap\login\login\obj\Debug\netcoreapp3.1\login.csproj.GenerateResource.cache
+E:\vs\save\bai tap\login\login\obj\Debug\netcoreapp3.1\login.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\login\login\obj\Debug\netcoreapp3.1\login.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\login\login\obj\Debug\netcoreapp3.1\login.AssemblyInfo.cs
+E:\vs\save\bai tap\login\login\obj\Debug\netcoreapp3.1\login.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\login\login\obj\Debug\netcoreapp3.1\login.dll
+E:\vs\save\bai tap\login\login\obj\Debug\netcoreapp3.1\login.pdb
+E:\vs\save\bai tap\login\login\obj\Debug\netcoreapp3.1\login.genruntimeconfig.cache
+E:\vs\save\bai tap\login\login\obj\Debug\netcoreapp3.1\login.dangnhap.resources
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\bin\Debug\netcoreapp3.1\login.exe
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\bin\Debug\netcoreapp3.1\login.deps.json
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.json
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.dev.json
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\bin\Debug\netcoreapp3.1\login.dll
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\bin\Debug\netcoreapp3.1\login.pdb
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\obj\Debug\netcoreapp3.1\login.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\obj\Debug\netcoreapp3.1\login.dangnhap.resources
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\obj\Debug\netcoreapp3.1\login.Form1.resources
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\obj\Debug\netcoreapp3.1\login.csproj.GenerateResource.cache
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\obj\Debug\netcoreapp3.1\login.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\obj\Debug\netcoreapp3.1\login.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\obj\Debug\netcoreapp3.1\login.AssemblyInfo.cs
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\obj\Debug\netcoreapp3.1\login.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\obj\Debug\netcoreapp3.1\login.dll
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\obj\Debug\netcoreapp3.1\login.pdb
+E:\vs\save\bai tap\l.vi du co demo buoi hoc 18-8\login\obj\Debug\netcoreapp3.1\login.genruntimeconfig.cache

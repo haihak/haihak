@@ -1,0 +1,24 @@
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.Form1.resources
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\bin\Debug\netcoreapp3.1\CheckListBox.exe
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\bin\Debug\netcoreapp3.1\CheckListBox.deps.json
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\bin\Debug\netcoreapp3.1\CheckListBox.runtimeconfig.json
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\bin\Debug\netcoreapp3.1\CheckListBox.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\bin\Debug\netcoreapp3.1\CheckListBox.dll
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\bin\Debug\netcoreapp3.1\CheckListBox.pdb
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.dll
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.pdb
+C:\Users\ADMIN\source\repos\CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.genruntimeconfig.cache
+E:\vs\save\bai tap\h.CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\h.CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.Form1.resources
+E:\vs\save\bai tap\h.CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.csproj.GenerateResource.cache
+E:\vs\save\bai tap\h.CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\h.CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\h.CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.AssemblyInfo.cs
+E:\vs\save\bai tap\h.CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\h.CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.dll
+E:\vs\save\bai tap\h.CheckListBox\CheckListBox\obj\Debug\netcoreapp3.1\CheckListBox.pdb

@@ -1,0 +1,31 @@
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.exe
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.deps.json
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.runtimeconfig.json
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.dll
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.pdb
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.buttonss.resources
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.dll
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.pdb
+C:\Users\ADMIN\source\repos\RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.genruntimeconfig.cache
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.exe
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.deps.json
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.runtimeconfig.json
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.runtimeconfig.dev.json
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.dll
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\bin\Debug\netcoreapp3.1\RadioButton.pdb
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.buttonss.resources
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.csproj.GenerateResource.cache
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.AssemblyInfo.cs
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.dll
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.pdb
+E:\vs\save\bai tap\g.Button Checkbox RadioButton\RadioButton\obj\Debug\netcoreapp3.1\RadioButton.genruntimeconfig.cache

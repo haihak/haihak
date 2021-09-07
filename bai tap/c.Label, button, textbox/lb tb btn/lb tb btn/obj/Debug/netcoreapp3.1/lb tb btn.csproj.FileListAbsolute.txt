@@ -1,0 +1,16 @@
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\bin\Debug\netcoreapp3.1\lb tb btn.exe
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\bin\Debug\netcoreapp3.1\lb tb btn.deps.json
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\bin\Debug\netcoreapp3.1\lb tb btn.runtimeconfig.json
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\bin\Debug\netcoreapp3.1\lb tb btn.runtimeconfig.dev.json
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\bin\Debug\netcoreapp3.1\lb tb btn.dll
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\bin\Debug\netcoreapp3.1\lb tb btn.pdb
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\obj\Debug\netcoreapp3.1\lb tb btn.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\obj\Debug\netcoreapp3.1\lb_tb_btn.Form1.resources
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\obj\Debug\netcoreapp3.1\lb tb btn.csproj.GenerateResource.cache
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\obj\Debug\netcoreapp3.1\lb tb btn.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\obj\Debug\netcoreapp3.1\lb tb btn.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\obj\Debug\netcoreapp3.1\lb tb btn.AssemblyInfo.cs
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\obj\Debug\netcoreapp3.1\lb tb btn.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\obj\Debug\netcoreapp3.1\lb tb btn.dll
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\obj\Debug\netcoreapp3.1\lb tb btn.pdb
+E:\vs\save\bai tap\c.Label, button, textbox\lb tb btn\lb tb btn\obj\Debug\netcoreapp3.1\lb tb btn.genruntimeconfig.cache

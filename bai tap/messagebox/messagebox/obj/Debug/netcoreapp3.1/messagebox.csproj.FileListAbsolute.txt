@@ -1,0 +1,16 @@
+E:\vs\save\bai tap\messagebox\messagebox\bin\Debug\netcoreapp3.1\messagebox.exe
+E:\vs\save\bai tap\messagebox\messagebox\bin\Debug\netcoreapp3.1\messagebox.deps.json
+E:\vs\save\bai tap\messagebox\messagebox\bin\Debug\netcoreapp3.1\messagebox.runtimeconfig.json
+E:\vs\save\bai tap\messagebox\messagebox\bin\Debug\netcoreapp3.1\messagebox.runtimeconfig.dev.json
+E:\vs\save\bai tap\messagebox\messagebox\bin\Debug\netcoreapp3.1\messagebox.dll
+E:\vs\save\bai tap\messagebox\messagebox\bin\Debug\netcoreapp3.1\messagebox.pdb
+E:\vs\save\bai tap\messagebox\messagebox\obj\Debug\netcoreapp3.1\messagebox.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\messagebox\messagebox\obj\Debug\netcoreapp3.1\messagebox.Form1.resources
+E:\vs\save\bai tap\messagebox\messagebox\obj\Debug\netcoreapp3.1\messagebox.csproj.GenerateResource.cache
+E:\vs\save\bai tap\messagebox\messagebox\obj\Debug\netcoreapp3.1\messagebox.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\messagebox\messagebox\obj\Debug\netcoreapp3.1\messagebox.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\messagebox\messagebox\obj\Debug\netcoreapp3.1\messagebox.AssemblyInfo.cs
+E:\vs\save\bai tap\messagebox\messagebox\obj\Debug\netcoreapp3.1\messagebox.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\messagebox\messagebox\obj\Debug\netcoreapp3.1\messagebox.dll
+E:\vs\save\bai tap\messagebox\messagebox\obj\Debug\netcoreapp3.1\messagebox.pdb
+E:\vs\save\bai tap\messagebox\messagebox\obj\Debug\netcoreapp3.1\messagebox.genruntimeconfig.cache

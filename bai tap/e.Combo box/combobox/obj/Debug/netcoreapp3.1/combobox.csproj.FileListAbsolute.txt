@@ -1,0 +1,34 @@
+E:\vs\save\bai tap\combobox\combobox\bin\Debug\netcoreapp3.1\combobox.exe
+E:\vs\save\bai tap\combobox\combobox\bin\Debug\netcoreapp3.1\combobox.deps.json
+E:\vs\save\bai tap\combobox\combobox\bin\Debug\netcoreapp3.1\combobox.runtimeconfig.json
+E:\vs\save\bai tap\combobox\combobox\bin\Debug\netcoreapp3.1\combobox.runtimeconfig.dev.json
+E:\vs\save\bai tap\combobox\combobox\bin\Debug\netcoreapp3.1\combobox.dll
+E:\vs\save\bai tap\combobox\combobox\bin\Debug\netcoreapp3.1\combobox.pdb
+E:\vs\save\bai tap\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.Form1.resources
+E:\vs\save\bai tap\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.csproj.GenerateResource.cache
+E:\vs\save\bai tap\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.AssemblyInfo.cs
+E:\vs\save\bai tap\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.dll
+E:\vs\save\bai tap\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.pdb
+E:\vs\save\bai tap\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.genruntimeconfig.cache
+E:\vs\save\bai tap\combobox\combobox\obj\Debug\netcoreapp3.1\combobox.ngoaingu.resources
+E:\vs\save\bai tap\e.Combo box\combobox\bin\Debug\netcoreapp3.1\combobox.exe
+E:\vs\save\bai tap\e.Combo box\combobox\bin\Debug\netcoreapp3.1\combobox.deps.json
+E:\vs\save\bai tap\e.Combo box\combobox\bin\Debug\netcoreapp3.1\combobox.runtimeconfig.json
+E:\vs\save\bai tap\e.Combo box\combobox\bin\Debug\netcoreapp3.1\combobox.runtimeconfig.dev.json
+E:\vs\save\bai tap\e.Combo box\combobox\bin\Debug\netcoreapp3.1\combobox.dll
+E:\vs\save\bai tap\e.Combo box\combobox\bin\Debug\netcoreapp3.1\combobox.pdb
+E:\vs\save\bai tap\e.Combo box\combobox\obj\Debug\netcoreapp3.1\combobox.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\e.Combo box\combobox\obj\Debug\netcoreapp3.1\combobox.Form1.resources
+E:\vs\save\bai tap\e.Combo box\combobox\obj\Debug\netcoreapp3.1\combobox.ngoaingu.resources
+E:\vs\save\bai tap\e.Combo box\combobox\obj\Debug\netcoreapp3.1\combobox.csproj.GenerateResource.cache
+E:\vs\save\bai tap\e.Combo box\combobox\obj\Debug\netcoreapp3.1\combobox.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\e.Combo box\combobox\obj\Debug\netcoreapp3.1\combobox.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\e.Combo box\combobox\obj\Debug\netcoreapp3.1\combobox.AssemblyInfo.cs
+E:\vs\save\bai tap\e.Combo box\combobox\obj\Debug\netcoreapp3.1\combobox.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\e.Combo box\combobox\obj\Debug\netcoreapp3.1\combobox.dll
+E:\vs\save\bai tap\e.Combo box\combobox\obj\Debug\netcoreapp3.1\combobox.pdb
+E:\vs\save\bai tap\e.Combo box\combobox\obj\Debug\netcoreapp3.1\combobox.genruntimeconfig.cache

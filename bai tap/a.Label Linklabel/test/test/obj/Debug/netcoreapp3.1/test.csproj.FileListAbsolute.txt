@@ -1,0 +1,32 @@
+E:\vs\save\test\test\bin\Debug\netcoreapp3.1\test.exe
+E:\vs\save\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+E:\vs\save\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+E:\vs\save\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+E:\vs\save\test\test\bin\Debug\netcoreapp3.1\test.dll
+E:\vs\save\test\test\bin\Debug\netcoreapp3.1\test.pdb
+E:\vs\save\test\test\obj\Debug\netcoreapp3.1\test.csproj.AssemblyReference.cache
+E:\vs\save\test\test\obj\Debug\netcoreapp3.1\test.formLinklabei.resources
+E:\vs\save\test\test\obj\Debug\netcoreapp3.1\test.csproj.GenerateResource.cache
+E:\vs\save\test\test\obj\Debug\netcoreapp3.1\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+E:\vs\save\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+E:\vs\save\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+E:\vs\save\test\test\obj\Debug\netcoreapp3.1\test.dll
+E:\vs\save\test\test\obj\Debug\netcoreapp3.1\test.pdb
+E:\vs\save\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
+E:\vs\save\bai tap\a.Label Linklabel\test\test\bin\Debug\netcoreapp3.1\test.exe
+E:\vs\save\bai tap\a.Label Linklabel\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+E:\vs\save\bai tap\a.Label Linklabel\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+E:\vs\save\bai tap\a.Label Linklabel\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+E:\vs\save\bai tap\a.Label Linklabel\test\test\bin\Debug\netcoreapp3.1\test.dll
+E:\vs\save\bai tap\a.Label Linklabel\test\test\bin\Debug\netcoreapp3.1\test.pdb
+E:\vs\save\bai tap\a.Label Linklabel\test\test\obj\Debug\netcoreapp3.1\test.csproj.AssemblyReference.cache
+E:\vs\save\bai tap\a.Label Linklabel\test\test\obj\Debug\netcoreapp3.1\test.formLinklabei.resources
+E:\vs\save\bai tap\a.Label Linklabel\test\test\obj\Debug\netcoreapp3.1\test.csproj.GenerateResource.cache
+E:\vs\save\bai tap\a.Label Linklabel\test\test\obj\Debug\netcoreapp3.1\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\save\bai tap\a.Label Linklabel\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+E:\vs\save\bai tap\a.Label Linklabel\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+E:\vs\save\bai tap\a.Label Linklabel\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+E:\vs\save\bai tap\a.Label Linklabel\test\test\obj\Debug\netcoreapp3.1\test.dll
+E:\vs\save\bai tap\a.Label Linklabel\test\test\obj\Debug\netcoreapp3.1\test.pdb
+E:\vs\save\bai tap\a.Label Linklabel\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
