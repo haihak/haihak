@@ -1,0 +1,12 @@
+E:\download\csdl 2\bai tap\1911147_Baitapcodemo_buoi3\1911147_Baitapcodemo_buoi3\bin\Debug\1911147_Baitapcodemo_buoi3.exe.config
+E:\download\csdl 2\bai tap\1911147_Baitapcodemo_buoi3\1911147_Baitapcodemo_buoi3\bin\Debug\1911147_Baitapcodemo_buoi3.exe
+E:\download\csdl 2\bai tap\1911147_Baitapcodemo_buoi3\1911147_Baitapcodemo_buoi3\bin\Debug\1911147_Baitapcodemo_buoi3.pdb
+E:\download\csdl 2\bai tap\1911147_Baitapcodemo_buoi3\1911147_Baitapcodemo_buoi3\obj\Debug\1911147_Baitapcodemo_buoi3.csproj.AssemblyReference.cache
+E:\download\csdl 2\bai tap\1911147_Baitapcodemo_buoi3\1911147_Baitapcodemo_buoi3\obj\Debug\_1911147_Baitapcodemo_buoi3.Properties.Resources.resources
+E:\download\csdl 2\bai tap\1911147_Baitapcodemo_buoi3\1911147_Baitapcodemo_buoi3\obj\Debug\1911147_Baitapcodemo_buoi3.csproj.GenerateResource.cache
+E:\download\csdl 2\bai tap\1911147_Baitapcodemo_buoi3\1911147_Baitapcodemo_buoi3\obj\Debug\1911147_Baitapcodemo_buoi3.csproj.CoreCompileInputs.cache
+E:\download\csdl 2\bai tap\1911147_Baitapcodemo_buoi3\1911147_Baitapcodemo_buoi3\obj\Debug\1911147_Baitapcodemo_buoi3.exe
+E:\download\csdl 2\bai tap\1911147_Baitapcodemo_buoi3\1911147_Baitapcodemo_buoi3\obj\Debug\1911147_Baitapcodemo_buoi3.pdb
+E:\download\csdl 2\bai tap\1911147_Baitapcodemo_buoi3\1911147_Baitapcodemo_buoi3\obj\Debug\_1911147_Baitapcodemo_buoi3.AddFeedForm.resources
+E:\download\csdl 2\bai tap\1911147_Baitapcodemo_buoi3\1911147_Baitapcodemo_buoi3\obj\Debug\_1911147_Baitapcodemo_buoi3.MainForm.resources
+E:\download\csdl 2\bai tap\1911147_Baitapcodemo_buoi3\1911147_Baitapcodemo_buoi3\obj\Debug\_1911147_Baitapcodemo_buoi3.Components.NewsControl.resources
