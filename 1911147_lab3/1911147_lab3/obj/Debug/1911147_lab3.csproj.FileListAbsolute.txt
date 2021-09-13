@@ -8,3 +8,4 @@ E:\download\csdl 2\bai tap\1911147_lab3\1911147_lab3\obj\Debug\1911147_lab3.cspr
 E:\download\csdl 2\bai tap\1911147_lab3\1911147_lab3\obj\Debug\1911147_lab3.csproj.CoreCompileInputs.cache
 E:\download\csdl 2\bai tap\1911147_lab3\1911147_lab3\obj\Debug\1911147_lab3.exe
 E:\download\csdl 2\bai tap\1911147_lab3\1911147_lab3\obj\Debug\1911147_lab3.pdb
+E:\download\csdl 2\bai tap\1911147_lab3\1911147_lab3\obj\Debug\_1911147_lab3.TC.resources

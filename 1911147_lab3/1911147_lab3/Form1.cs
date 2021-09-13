@@ -98,7 +98,7 @@ namespace _1911147_lab3
             lvitem.SubItems.Add(sv.Hinh);
             this.lvSinhVien.Items.Add(lvitem);
         }
-        private void LoadLisView()
+        private void LoadListView()
         {
             this.lvSinhVien.Items.Clear();
             foreach (Sinhvien sv in qlsv.DanhSach)
@@ -110,9 +110,38 @@ namespace _1911147_lab3
         {
             qlsv = new QuanLySinhVien();
             qlsv.DocTuFile();
-            LoadLisView();
+            LoadListView();
         }
+        private void lvSinhVien_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            int count = this.lvSinhVien.SelectedItems.Count;
+            if (count > 0)
+            {
+                ListViewItem lvitem = this.lvSinhVien.SelectedItems[0];
+                Sinhvien sv = GetSinhvienLV(lvitem);
+                ThietLapThongtin(sv);
+            }
+        }
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+            Sinhvien sv = GetSinhvien();
+            Sinhvien kq = qlsv.Tim(sv.MaSo, delegate (object obj1, object obj2)
+            {
+                return (obj2 as Sinhvien).MaSo.CompareTo(obj1.ToString());
 
+            });
+            if (kq != null)
+                MessageBox.Show("Mã sinh viên này đã tồn tại!,", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            else
+            {
+                this.qlsv.Them(sv);
+                this.LoadListView();
+            }
+        }
         private void btnSua_Click(object sender, EventArgs e)
         {
             Sinhvien sv = GetSinhvien();
@@ -120,47 +149,18 @@ namespace _1911147_lab3
             kqsua = qlsv.Sua(sv, sv.MaSo, SoSanhTheoMa);
             if(kqsua)
             {
-                
+                this.LoadListView();
             }
         }
+        
         private int SoSanhTheoMa(object obj1,object obj2)
         {
             Sinhvien sv = obj2 as Sinhvien;
             return sv.MaSo.CompareTo(obj1);
-        }
+        } 
+     
 
-        private void lvSinhVien_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            int count = this.lvSinhVien.SelectedItems.Count;
-            if(count>0)
-            {
-                ListViewItem lvitem = this.lvSinhVien.SelectedItems[0];
-                Sinhvien sv = GetSinhvienLV(lvitem);
-                ThietLapThongtin(sv);
-            }
-        }
-
-        private void btnThem_Click(object sender, EventArgs e)
-        {
-            Sinhvien sv = GetSinhvien();
-            Sinhvien kq = qlsv.Tim(sv.MaSo, delegate (object obj1, object obj2)
-                {
-                    return (obj2 as Sinhvien).MaSo.CompareTo(obj1.ToString());
-
-                });
-            if (kq != null)
-                MessageBox.Show("Mã sinh viên này đã tồn tại!,", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            else
-            {
-                this.qlsv.Them(sv);
-                this.LoadLisView();
-            }
-        }
-
-        private void btnThoat_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
+        
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
@@ -172,7 +172,7 @@ namespace _1911147_lab3
                 lvitem = this.lvSinhVien.Items[i];
                 if (lvitem.Checked) qlsv.Xoa(lvitem.SubItems[0].Text, SoSanhTheoMa);
             }
-            this.LoadLisView();
+            this.LoadListView();
             this.btnMacDinh.PerformClick();
         }
 
@@ -188,12 +188,7 @@ namespace _1911147_lab3
             this.rdNam.Checked = true;
             for (int i = 0; i < this.clbChuyenNganh.Items.Count - 1; i++)
                 this.clbChuyenNganh.SetItemChecked(i, false);
-        }
-
-        private void pbHinh_Click(object sender, EventArgs e)
-        {
-
-        }
+        }     
 
         private void btnBrowse_Click(object sender, EventArgs e)
         {
@@ -216,5 +211,7 @@ namespace _1911147_lab3
                 ptbHinh.Load(filename);
             }
         }
+
+       
     }
 }
