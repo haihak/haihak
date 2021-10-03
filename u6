@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T01:17:38.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="7v4IqcJeOl8QIsAH56g4" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-03T01:50:19.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="z4KW6zoizpjabbPsr7t0" version="15.4.1" type="github">
   <diagram id="YaTQt0RsVNdHuR2UYLNY" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1028" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,8 +95,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wc0W50pyJNM5RgPVN_ls-21" value="ReturnKQ()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
-          <mxGeometry x="0.0244" y="-10" relative="1" as="geometry">
+        <mxCell id="Wc0W50pyJNM5RgPVN_ls-21" value="kết quả" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry x="0.0244" relative="1" as="geometry">
             <mxPoint x="464" y="680" as="sourcePoint" />
             <mxPoint x="300" y="680" as="targetPoint" />
             <mxPoint as="offset" />
