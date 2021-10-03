@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T01:42:03.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="_aL3QEoSIBpRUO_z3sil" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-03T01:43:38.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="hOdc2Pdft5xTkWgzoKTl" version="15.4.1" type="github">
   <diagram id="Dymi-vYKAZ10J0wXpvJX" name="Page-1">
     <mxGraphModel dx="1028" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmNCW9pE_JyAv5eBPor3-20" value="Xuất giao diện đăng nhập (U1)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="RmNCW9pE_JyAv5eBPor3-20" value="Trở về giao diện đăng nhập (U1)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry x="-0.0476" relative="1" as="geometry">
             <mxPoint x="260" y="529.66" as="sourcePoint" />
             <mxPoint x="50" y="529.66" as="targetPoint" />
