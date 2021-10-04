@@ -15,3 +15,20 @@ E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcore
 E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.pdb
 E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.genruntimeconfig.cache
 E:\vs\save\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam_lai_vi_du_co_demo.txt.resources
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\bin\Debug\netcoreapp3.1\lam lai vi du co demo.exe
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\bin\Debug\netcoreapp3.1\lam lai vi du co demo.deps.json
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\bin\Debug\netcoreapp3.1\lam lai vi du co demo.runtimeconfig.json
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\bin\Debug\netcoreapp3.1\lam lai vi du co demo.runtimeconfig.dev.json
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\bin\Debug\netcoreapp3.1\lam lai vi du co demo.dll
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\bin\Debug\netcoreapp3.1\lam lai vi du co demo.pdb
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.csproj.AssemblyReference.cache
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam_lai_vi_du_co_demo.txt.resources
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam_lai_vi_du_co_demo.LoginForm.resources
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.csproj.GenerateResource.cache
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.AssemblyInfoInputs.cache
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.AssemblyInfo.cs
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.csproj.CoreCompileInputs.cache
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.dll
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.pdb
+D:\download\csdl 2\bai tap\lab\Lab\bai tap\lam lai vi du co demo\lam lai vi du co demo\obj\Debug\netcoreapp3.1\lam lai vi du co demo.genruntimeconfig.cache

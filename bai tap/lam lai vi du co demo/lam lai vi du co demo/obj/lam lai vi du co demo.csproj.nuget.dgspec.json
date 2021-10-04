@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\vs\\save\\bai tap\\lam lai vi du co demo\\lam lai vi du co demo\\lam lai vi du co demo.csproj": {}
+    "D:\\download\\csdl 2\\bai tap\\lab\\Lab\\bai tap\\lam lai vi du co demo\\lam lai vi du co demo\\lam lai vi du co demo.csproj": {}
   },
   "projects": {
-    "E:\\vs\\save\\bai tap\\lam lai vi du co demo\\lam lai vi du co demo\\lam lai vi du co demo.csproj": {
+    "D:\\download\\csdl 2\\bai tap\\lab\\Lab\\bai tap\\lam lai vi du co demo\\lam lai vi du co demo\\lam lai vi du co demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\vs\\save\\bai tap\\lam lai vi du co demo\\lam lai vi du co demo\\lam lai vi du co demo.csproj",
+        "projectUniqueName": "D:\\download\\csdl 2\\bai tap\\lab\\Lab\\bai tap\\lam lai vi du co demo\\lam lai vi du co demo\\lam lai vi du co demo.csproj",
         "projectName": "lam lai vi du co demo",
-        "projectPath": "E:\\vs\\save\\bai tap\\lam lai vi du co demo\\lam lai vi du co demo\\lam lai vi du co demo.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\vs\\save\\bai tap\\lam lai vi du co demo\\lam lai vi du co demo\\obj\\",
+        "projectPath": "D:\\download\\csdl 2\\bai tap\\lab\\Lab\\bai tap\\lam lai vi du co demo\\lam lai vi du co demo\\lam lai vi du co demo.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\download\\csdl 2\\bai tap\\lab\\Lab\\bai tap\\lam lai vi du co demo\\lam lai vi du co demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
