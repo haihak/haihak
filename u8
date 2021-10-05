@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T07:11:20.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="JpRekwV1aEaHMh1cKdMc" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T07:12:26.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="rwr0q-Zr_kS6mzBwelzv" version="15.4.1" type="github">
   <diagram id="UjWNktRN-N4c0ySQ676w" name="Page-1">
     <mxGraphModel dx="865" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,8 +57,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0G6efzVnyLxVLA41ZMea-20" value="Hiện thị học phí cần trả" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
-          <mxGeometry x="-0.0667" relative="1" as="geometry">
+        <mxCell id="0G6efzVnyLxVLA41ZMea-20" value="Hiển thị giao diện học phí cần trả" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+          <mxGeometry x="-0.0588" relative="1" as="geometry">
             <mxPoint x="260" y="560" as="sourcePoint" />
             <mxPoint x="90" y="560" as="targetPoint" />
             <mxPoint as="offset" />
