@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T14:53:26.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="lCCbTpGOaMJlbwlsb9NT" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T07:29:39.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="cXIp5dho1ChxLuCzPreI" version="15.4.1" type="github">
   <diagram id="IcEZDnpDYRS22VZvd73r" name="Page-1">
-    <mxGraphModel dx="1028" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="340" width="20" height="380" as="geometry" />
         </mxCell>
         <mxCell id="22qHl9jv2ILg-A70pQ2U-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="22qHl9jv2ILg-A70pQ2U-1" vertex="1">
-          <mxGeometry x="5" y="50" width="10" height="330" as="geometry" />
+          <mxGeometry x="5" y="50" width="10" height="310" as="geometry" />
         </mxCell>
         <mxCell id="22qHl9jv2ILg-A70pQ2U-3" value=":DMK Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="340" width="100" height="380" as="geometry" />
@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="22qHl9jv2ILg-A70pQ2U-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="22qHl9jv2ILg-A70pQ2U-3" vertex="1">
-          <mxGeometry x="45" y="50" width="10" height="330" as="geometry" />
+          <mxGeometry x="45" y="50" width="10" height="310" as="geometry" />
         </mxCell>
         <mxCell id="22qHl9jv2ILg-A70pQ2U-6" value="Yêu cầu nhập mật khẩu cần đổi" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="22qHl9jv2ILg-A70pQ2U-3" edge="1">
           <mxGeometry x="-0.0309" relative="1" as="geometry">
@@ -88,29 +88,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="22qHl9jv2ILg-A70pQ2U-18" value="ReturnKQ()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
-          <mxGeometry x="0.0244" relative="1" as="geometry">
-            <mxPoint x="684.0000000000002" y="670" as="sourcePoint" />
-            <mxPoint x="520" y="670" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="22qHl9jv2ILg-A70pQ2U-19" value="Ket qua" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="680" as="sourcePoint" />
-            <mxPoint x="300" y="680" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="22qHl9jv2ILg-A70pQ2U-20" value="Xuất thông báo thay đổi mk thành công" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry x="-0.0476" relative="1" as="geometry">
-            <mxPoint x="260" y="710" as="sourcePoint" />
-            <mxPoint x="50" y="710" as="targetPoint" />
+            <mxPoint x="260" y="680" as="sourcePoint" />
+            <mxPoint x="50" y="680" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="at3ifjlFyA2DMzWgdrmX-1" value="Người dùng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="at3ifjlFyA2DMzWgdrmX-1" value="Người dùng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="drSE8gyCoIf81jcdOxUt-1" value="Extend by U1" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="drSE8gyCoIf81jcdOxUt-2" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;edgeStyle=orthogonalEdgeStyle;exitX=1.133;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="22qHl9jv2ILg-A70pQ2U-2" target="drSE8gyCoIf81jcdOxUt-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="740" as="sourcePoint" />
+            <mxPoint x="110" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="698" />
+              <mxPoint x="70" y="740" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
