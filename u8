@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T07:12:26.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="rwr0q-Zr_kS6mzBwelzv" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T07:14:17.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="Hck9qWXgzbnynhDRMQid" version="15.4.1" type="github">
   <diagram id="UjWNktRN-N4c0ySQ676w" name="Page-1">
     <mxGraphModel dx="865" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,8 +67,8 @@
         <mxCell id="0G6efzVnyLxVLA41ZMea-21" value="Sinh Viên" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7YFwMOXek3LQWyypHusb-1" value="Dựa theo số tín chỉ&amp;nbsp;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="520" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="7YFwMOXek3LQWyypHusb-1" value="Dựa theo tổng số tín chỉ đã đăng ký&amp;nbsp;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7YFwMOXek3LQWyypHusb-2" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="7YFwMOXek3LQWyypHusb-1">
           <mxGeometry relative="1" as="geometry">
