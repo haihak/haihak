@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T14:53:22.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="0HatdYeXSDHkDWjFksrl" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T07:20:44.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="NXXe2xDcLGAjUQ22u1wE" version="15.4.1" type="github">
   <diagram id="OiTYWcghovJIWZ-SMy5r" name="Page-1">
-    <mxGraphModel dx="1028" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vv_PpJeVWlA6Bm-SNq3a-1" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="340" width="20" height="380" as="geometry" />
+          <mxGeometry x="40" y="340" width="20" height="420" as="geometry" />
         </mxCell>
         <mxCell id="vv_PpJeVWlA6Bm-SNq3a-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="vv_PpJeVWlA6Bm-SNq3a-1" vertex="1">
-          <mxGeometry x="5" y="50" width="10" height="330" as="geometry" />
+          <mxGeometry x="5" y="50" width="10" height="340" as="geometry" />
         </mxCell>
         <mxCell id="vv_PpJeVWlA6Bm-SNq3a-3" value=":TCHP Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="340" width="100" height="380" as="geometry" />
+          <mxGeometry x="230" y="340" width="100" height="420" as="geometry" />
         </mxCell>
         <mxCell id="vv_PpJeVWlA6Bm-SNq3a-4" value="Yêu cầu tra cứu học phần" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="vv_PpJeVWlA6Bm-SNq3a-3" edge="1">
           <mxGeometry x="-0.125" y="10" width="160" relative="1" as="geometry">
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vv_PpJeVWlA6Bm-SNq3a-6" value=":TCHP Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="450" y="340" width="100" height="380" as="geometry" />
+          <mxGeometry x="450" y="340" width="100" height="420" as="geometry" />
         </mxCell>
         <mxCell id="vv_PpJeVWlA6Bm-SNq3a-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="vv_PpJeVWlA6Bm-SNq3a-6" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="90" as="geometry" />
@@ -40,7 +40,7 @@
           <mxGeometry x="45" y="220" width="10" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vv_PpJeVWlA6Bm-SNq3a-9" value=":TCHP DataBase" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="650" y="340" width="100" height="380" as="geometry" />
+          <mxGeometry x="650" y="340" width="100" height="420" as="geometry" />
         </mxCell>
         <mxCell id="vv_PpJeVWlA6Bm-SNq3a-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="vv_PpJeVWlA6Bm-SNq3a-9" vertex="1">
           <mxGeometry x="45" y="280" width="10" height="40" as="geometry" />
@@ -81,7 +81,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vv_PpJeVWlA6Bm-SNq3a-17" value="TraCuuThongTin()" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+        <mxCell id="vv_PpJeVWlA6Bm-SNq3a-17" value="TraCuuThongTin(HP)" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry x="-0.125" y="10" width="160" relative="1" as="geometry">
             <mxPoint x="520" y="594" as="sourcePoint" />
             <mxPoint x="680" y="594" as="targetPoint" />
@@ -109,8 +109,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KCjBCMiDuHTTxPfP_oga-2" value="Người dùng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KCjBCMiDuHTTxPfP_oga-2" value="Người dùng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="15" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ozp2VFiE8FDH5fDvjzVg-1" value="Extend by U3" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ozp2VFiE8FDH5fDvjzVg-5" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;edgeStyle=orthogonalEdgeStyle;exitX=1.3;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vv_PpJeVWlA6Bm-SNq3a-2" target="ozp2VFiE8FDH5fDvjzVg-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="740" as="sourcePoint" />
+            <mxPoint x="140" y="770" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
