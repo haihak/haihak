@@ -1,0 +1,11 @@
+D:\download\csdl 2\bai tap\OnTapkiemtrap1\OnTapkiemtrap1\bin\Debug\OnTapkiemtrap1.exe.config
+D:\download\csdl 2\bai tap\OnTapkiemtrap1\OnTapkiemtrap1\bin\Debug\OnTapkiemtrap1.exe
+D:\download\csdl 2\bai tap\OnTapkiemtrap1\OnTapkiemtrap1\bin\Debug\OnTapkiemtrap1.pdb
+D:\download\csdl 2\bai tap\OnTapkiemtrap1\OnTapkiemtrap1\obj\Debug\OnTapkiemtrap1.csproj.AssemblyReference.cache
+D:\download\csdl 2\bai tap\OnTapkiemtrap1\OnTapkiemtrap1\obj\Debug\OnTapkiemtrap1.FormQLSV.resources
+D:\download\csdl 2\bai tap\OnTapkiemtrap1\OnTapkiemtrap1\obj\Debug\OnTapkiemtrap1.Properties.Resources.resources
+D:\download\csdl 2\bai tap\OnTapkiemtrap1\OnTapkiemtrap1\obj\Debug\OnTapkiemtrap1.csproj.GenerateResource.cache
+D:\download\csdl 2\bai tap\OnTapkiemtrap1\OnTapkiemtrap1\obj\Debug\OnTapkiemtrap1.csproj.CoreCompileInputs.cache
+D:\download\csdl 2\bai tap\OnTapkiemtrap1\OnTapkiemtrap1\obj\Debug\OnTapkiemtrap1.exe
+D:\download\csdl 2\bai tap\OnTapkiemtrap1\OnTapkiemtrap1\obj\Debug\OnTapkiemtrap1.pdb
+D:\download\csdl 2\bai tap\OnTapkiemtrap1\OnTapkiemtrap1\obj\Debug\OnTapkiemtrap1.formTTSV.resources
