@@ -33,5 +33,6 @@ namespace _1911147_lab5
             this.SDT = sdt;
             this.DiaChi = diachi;
         }
+
     }
 }

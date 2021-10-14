@@ -8,3 +8,13 @@ D:\download\csdl 2\bai tap\1911147_lab5\1911147_lab5\obj\Debug\1911147_lab5.cspr
 D:\download\csdl 2\bai tap\1911147_lab5\1911147_lab5\obj\Debug\1911147_lab5.exe
 D:\download\csdl 2\bai tap\1911147_lab5\1911147_lab5\obj\Debug\1911147_lab5.pdb
 D:\download\csdl 2\bai tap\1911147_lab5\1911147_lab5\obj\Debug\_1911147_lab5.formSV.resources
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab5\1911147_lab5\bin\Debug\1911147_lab5.exe.config
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab5\1911147_lab5\bin\Debug\1911147_lab5.exe
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab5\1911147_lab5\bin\Debug\1911147_lab5.pdb
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab5\1911147_lab5\obj\Debug\1911147_lab5.csproj.AssemblyReference.cache
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab5\1911147_lab5\obj\Debug\_1911147_lab5.formSV.resources
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab5\1911147_lab5\obj\Debug\_1911147_lab5.Properties.Resources.resources
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab5\1911147_lab5\obj\Debug\1911147_lab5.csproj.GenerateResource.cache
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab5\1911147_lab5\obj\Debug\1911147_lab5.csproj.CoreCompileInputs.cache
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab5\1911147_lab5\obj\Debug\1911147_lab5.exe
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab5\1911147_lab5\obj\Debug\1911147_lab5.pdb
