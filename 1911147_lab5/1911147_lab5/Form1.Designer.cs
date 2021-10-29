@@ -308,6 +308,7 @@ namespace _1911147_lab5
             this.columnHeader16,
             this.columnHeader17});
             this.lvDSSV.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lvDSSV.FullRowSelect = true;
             this.lvDSSV.GridLines = true;
             this.lvDSSV.HideSelection = false;
             this.lvDSSV.Location = new System.Drawing.Point(3, 18);
