@@ -9,3 +9,14 @@ D:\download\csdl 2\bai tap\1911147_lab6\1911147_lab6\obj\Debug\1911147_lab6.exe
 D:\download\csdl 2\bai tap\1911147_lab6\1911147_lab6\obj\Debug\1911147_lab6.pdb
 D:\download\csdl 2\bai tap\1911147_lab6\1911147_lab6\obj\Debug\_1911147_lab6.formMonan.resources
 D:\download\csdl 2\bai tap\1911147_lab6\1911147_lab6\obj\Debug\_1911147_lab6.frmFood.resources
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab6\1911147_lab6\bin\Debug\1911147_lab6.exe.config
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab6\1911147_lab6\bin\Debug\1911147_lab6.exe
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab6\1911147_lab6\bin\Debug\1911147_lab6.pdb
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab6\1911147_lab6\obj\Debug\1911147_lab6.csproj.AssemblyReference.cache
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab6\1911147_lab6\obj\Debug\_1911147_lab6.frmFood.resources
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab6\1911147_lab6\obj\Debug\_1911147_lab6.formMonan.resources
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab6\1911147_lab6\obj\Debug\_1911147_lab6.Properties.Resources.resources
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab6\1911147_lab6\obj\Debug\1911147_lab6.csproj.GenerateResource.cache
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab6\1911147_lab6\obj\Debug\1911147_lab6.csproj.CoreCompileInputs.cache
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab6\1911147_lab6\obj\Debug\1911147_lab6.exe
+D:\download\csdl 2\bai tap\lab\Lab\1911147_lab6\1911147_lab6\obj\Debug\1911147_lab6.pdb
