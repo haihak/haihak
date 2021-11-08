@@ -46,7 +46,7 @@ namespace _1911147_lab6
             // nhưng khi lấy giá trị thì lấy id của nhóm
             cbbLoaiMonAn.ValueMember = "ID";
         }
-        //1911147
+
         public void LoadFood(int categoryID)
         {
             // Tạo đối tượng kết nối
@@ -74,7 +74,6 @@ namespace _1911147_lab6
             sqlConnection.Dispose();
             da.Dispose();
         }
-        //1911147
         private void dgvFood_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             // hiển thị thông tin 
@@ -93,7 +92,7 @@ namespace _1911147_lab6
         {
             
         }
-        //1911147
+
         private void cbbLoaiMonAn_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (cbbLoaiMonAn.SelectedIndex == -1) return;

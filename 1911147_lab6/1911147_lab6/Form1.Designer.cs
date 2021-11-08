@@ -47,34 +47,40 @@ namespace _1911147_lab6
             this.btnAdd = new System.Windows.Forms.Button();
             this.btnUpdate = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
+            this.btnXemHoaDon = new System.Windows.Forms.Button();
+            this.btnTK = new System.Windows.Forms.Button();
+            this.btnDatBan = new System.Windows.Forms.Button();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnLoad
             // 
             this.btnLoad.AutoSize = true;
+            this.btnLoad.BackColor = System.Drawing.Color.Gainsboro;
             this.btnLoad.Location = new System.Drawing.Point(12, 115);
             this.btnLoad.Name = "btnLoad";
-            this.btnLoad.Size = new System.Drawing.Size(111, 27);
+            this.btnLoad.Size = new System.Drawing.Size(115, 29);
             this.btnLoad.TabIndex = 0;
             this.btnLoad.Text = "Lấy danh sách";
-            this.btnLoad.UseVisualStyleBackColor = true;
+            this.btnLoad.UseVisualStyleBackColor = false;
             this.btnLoad.Click += new System.EventHandler(this.btnLoad_Click);
             // 
             // lvCategory
             // 
+            this.lvCategory.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.lvCategory.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.chID,
             this.chName,
             this.chType});
             this.lvCategory.ContextMenuStrip = this.contextMenuStrip1;
-            this.lvCategory.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.lvCategory.FullRowSelect = true;
             this.lvCategory.HideSelection = false;
             this.lvCategory.Location = new System.Drawing.Point(0, 150);
             this.lvCategory.MultiSelect = false;
             this.lvCategory.Name = "lvCategory";
-            this.lvCategory.Size = new System.Drawing.Size(605, 372);
+            this.lvCategory.Size = new System.Drawing.Size(564, 372);
             this.lvCategory.TabIndex = 1;
             this.lvCategory.UseCompatibleStateImageBehavior = false;
             this.lvCategory.View = System.Windows.Forms.View.Details;
@@ -170,44 +176,88 @@ namespace _1911147_lab6
             // 
             // btnAdd
             // 
+            this.btnAdd.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnAdd.AutoSize = true;
-            this.btnAdd.Location = new System.Drawing.Point(247, 117);
+            this.btnAdd.BackColor = System.Drawing.Color.Gainsboro;
+            this.btnAdd.Location = new System.Drawing.Point(206, 117);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(111, 27);
             this.btnAdd.TabIndex = 0;
             this.btnAdd.Text = "Thêm";
-            this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.UseVisualStyleBackColor = false;
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // btnUpdate
             // 
+            this.btnUpdate.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnUpdate.AutoSize = true;
+            this.btnUpdate.BackColor = System.Drawing.Color.Gainsboro;
             this.btnUpdate.Enabled = false;
-            this.btnUpdate.Location = new System.Drawing.Point(364, 117);
+            this.btnUpdate.Location = new System.Drawing.Point(323, 117);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(111, 27);
             this.btnUpdate.TabIndex = 0;
             this.btnUpdate.Text = "Cập nhật";
-            this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.UseVisualStyleBackColor = false;
             this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnDelete
             // 
+            this.btnDelete.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnDelete.AutoSize = true;
+            this.btnDelete.BackColor = System.Drawing.Color.Gainsboro;
             this.btnDelete.Enabled = false;
-            this.btnDelete.Location = new System.Drawing.Point(482, 117);
+            this.btnDelete.Location = new System.Drawing.Point(441, 117);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(111, 27);
             this.btnDelete.TabIndex = 0;
             this.btnDelete.Text = "Xóa";
-            this.btnDelete.UseVisualStyleBackColor = true;
+            this.btnDelete.UseVisualStyleBackColor = false;
             this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
+            // 
+            // btnXemHoaDon
+            // 
+            this.btnXemHoaDon.BackColor = System.Drawing.Color.Gainsboro;
+            this.btnXemHoaDon.Location = new System.Drawing.Point(392, 10);
+            this.btnXemHoaDon.Name = "btnXemHoaDon";
+            this.btnXemHoaDon.Size = new System.Drawing.Size(97, 27);
+            this.btnXemHoaDon.TabIndex = 4;
+            this.btnXemHoaDon.Text = "Hóa Đơn";
+            this.btnXemHoaDon.UseVisualStyleBackColor = false;
+            this.btnXemHoaDon.Click += new System.EventHandler(this.btnXemHoaDon_Click);
+            // 
+            // btnTK
+            // 
+            this.btnTK.BackColor = System.Drawing.Color.Gainsboro;
+            this.btnTK.Location = new System.Drawing.Point(392, 46);
+            this.btnTK.Name = "btnTK";
+            this.btnTK.Size = new System.Drawing.Size(97, 27);
+            this.btnTK.TabIndex = 5;
+            this.btnTK.Text = "Tài Khoản";
+            this.btnTK.UseVisualStyleBackColor = false;
+            this.btnTK.Click += new System.EventHandler(this.btnTK_Click);
+            // 
+            // btnDatBan
+            // 
+            this.btnDatBan.AutoSize = true;
+            this.btnDatBan.BackColor = System.Drawing.Color.Gainsboro;
+            this.btnDatBan.Location = new System.Drawing.Point(392, 80);
+            this.btnDatBan.Name = "btnDatBan";
+            this.btnDatBan.Size = new System.Drawing.Size(97, 27);
+            this.btnDatBan.TabIndex = 6;
+            this.btnDatBan.Text = "Đặt Bàn";
+            this.btnDatBan.UseVisualStyleBackColor = false;
+            this.btnDatBan.Click += new System.EventHandler(this.btnDatBan_Click);
             // 
             // formMonan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(605, 522);
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(564, 522);
+            this.Controls.Add(this.btnDatBan);
+            this.Controls.Add(this.btnTK);
+            this.Controls.Add(this.btnXemHoaDon);
             this.Controls.Add(this.txtType);
             this.Controls.Add(this.txtName);
             this.Controls.Add(this.txtID);
@@ -221,6 +271,7 @@ namespace _1911147_lab6
             this.Controls.Add(this.btnLoad);
             this.Name = "formMonan";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.formMonan_Load);
             this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -246,6 +297,9 @@ namespace _1911147_lab6
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.ToolStripMenuItem tsmDelete;
         private System.Windows.Forms.ToolStripMenuItem tsmViewFood;
+        private System.Windows.Forms.Button btnXemHoaDon;
+        private System.Windows.Forms.Button btnTK;
+        private System.Windows.Forms.Button btnDatBan;
     }
 }
 

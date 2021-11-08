@@ -54,37 +54,43 @@ namespace _1911147_lab6
             // 
             // dgvFood
             // 
-            this.dgvFood.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.dgvFood.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvFood.BackgroundColor = System.Drawing.Color.White;
             this.dgvFood.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvFood.Location = new System.Drawing.Point(-1, 145);
             this.dgvFood.Name = "dgvFood";
             this.dgvFood.RowHeadersWidth = 51;
             this.dgvFood.RowTemplate.Height = 24;
-            this.dgvFood.Size = new System.Drawing.Size(736, 369);
+            this.dgvFood.Size = new System.Drawing.Size(655, 369);
             this.dgvFood.TabIndex = 0;
             this.dgvFood.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvFood_CellContentClick);
             // 
             // btnSave
             // 
+            this.btnSave.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnSave.AutoSize = true;
-            this.btnSave.Location = new System.Drawing.Point(566, 112);
+            this.btnSave.BackColor = System.Drawing.Color.Gainsboro;
+            this.btnSave.Location = new System.Drawing.Point(485, 112);
             this.btnSave.Name = "btnSave";
-            this.btnSave.Size = new System.Drawing.Size(75, 27);
+            this.btnSave.Size = new System.Drawing.Size(75, 29);
             this.btnSave.TabIndex = 1;
             this.btnSave.Text = "Lưu";
-            this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.UseVisualStyleBackColor = false;
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // btnDelete
             // 
+            this.btnDelete.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnDelete.AutoSize = true;
-            this.btnDelete.Location = new System.Drawing.Point(647, 112);
+            this.btnDelete.BackColor = System.Drawing.Color.Gainsboro;
+            this.btnDelete.Location = new System.Drawing.Point(566, 112);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(75, 27);
             this.btnDelete.TabIndex = 1;
             this.btnDelete.Text = "Xóa";
-            this.btnDelete.UseVisualStyleBackColor = true;
+            this.btnDelete.UseVisualStyleBackColor = false;
             this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // label1
@@ -193,6 +199,7 @@ namespace _1911147_lab6
             // lblCatName
             // 
             this.lblCatName.AccessibleName = "lb1";
+            this.lblCatName.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lblCatName.AutoSize = true;
             this.lblCatName.Location = new System.Drawing.Point(275, 527);
             this.lblCatName.Name = "lblCatName";
@@ -203,6 +210,7 @@ namespace _1911147_lab6
             // label7
             // 
             this.label7.AccessibleName = "lb1";
+            this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(136, 527);
             this.label7.Name = "label7";
@@ -213,6 +221,7 @@ namespace _1911147_lab6
             // lblQuantity
             // 
             this.lblQuantity.AccessibleName = "lb1";
+            this.lblQuantity.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lblQuantity.AutoSize = true;
             this.lblQuantity.Location = new System.Drawing.Point(89, 527);
             this.lblQuantity.Name = "lblQuantity";
@@ -223,6 +232,7 @@ namespace _1911147_lab6
             // label8
             // 
             this.label8.AccessibleName = "lb1";
+            this.label8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label8.AutoSize = true;
             this.label8.Location = new System.Drawing.Point(12, 527);
             this.label8.Name = "label8";
@@ -234,7 +244,8 @@ namespace _1911147_lab6
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(734, 544);
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(653, 544);
             this.Controls.Add(this.lblCatName);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.lblQuantity);

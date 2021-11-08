@@ -33,7 +33,7 @@ namespace _1911147_lab6
                 item.SubItems.Add(reader["Type"].ToString());
             }
         }
-        //1911147
+
         private void btnLoad_Click(object sender, EventArgs e)
         {
             // tạo chuỗi kết nối với csdl RetaurantManagement
@@ -55,7 +55,7 @@ namespace _1911147_lab6
             sqlConnection.Close();
             
         }
-        //1911147
+
         private void btnAdd_Click(object sender, EventArgs e)
         {
             // tạo đối tượng kết nối
@@ -85,7 +85,7 @@ namespace _1911147_lab6
                 MessageBox.Show("xuất hiện lỗi rồi thử lại xem nào :V");
             } 
         }
-        //1911147
+
         private void btnUpdate_Click(object sender, EventArgs e)
         {
             // Tạo đối tượng kết nối
@@ -134,7 +134,7 @@ namespace _1911147_lab6
             btnUpdate.Enabled = true;
             btnDelete.Enabled = true;
         }
-        //1911147
+
         private void btnDelete_Click(object sender, EventArgs e)
         {
             // Tạo đối tượng kết nối
@@ -175,7 +175,7 @@ namespace _1911147_lab6
             if (lvCategory.SelectedItems.Count > 0)
                 btnDelete.PerformClick();
         }
-        //1911147
+
         private void tsmViewFood_Click(object sender, EventArgs e)
         {
             if(txtID.Text !="")
@@ -189,6 +189,39 @@ namespace _1911147_lab6
         private void lvCategory_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void formMonan_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnXemHoaDon_Click(object sender, EventArgs e)
+        {
+            var dialog = new HoaDon();
+            if(dialog.ShowDialog()== DialogResult.OK)
+            {
+
+            }    
+        }
+
+        private void btnTK_Click(object sender, EventArgs e)
+        {
+            var dialog = new TaiKhoan();
+            if(dialog.ShowDialog()==DialogResult.OK)
+            {
+
+            }
+                
+        }
+
+        private void btnDatBan_Click(object sender, EventArgs e)
+        {
+            var dialog = new DatBan();
+            if(dialog.ShowDialog()==DialogResult.OK)
+            {
+
+            }    
         }
     }
 }
