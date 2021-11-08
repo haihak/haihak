@@ -84,7 +84,6 @@ namespace _1911147_lab6
             this.lvCategory.TabIndex = 1;
             this.lvCategory.UseCompatibleStateImageBehavior = false;
             this.lvCategory.View = System.Windows.Forms.View.Details;
-            this.lvCategory.SelectedIndexChanged += new System.EventHandler(this.lvCategory_SelectedIndexChanged);
             this.lvCategory.Click += new System.EventHandler(this.lvCategory_Click);
             // 
             // chID

@@ -186,16 +186,7 @@ namespace _1911147_lab6
             }
         }
 
-        private void lvCategory_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void formMonan_Load(object sender, EventArgs e)
-        {
-
-        }
-
+       
         private void btnXemHoaDon_Click(object sender, EventArgs e)
         {
             var dialog = new HoaDon();
@@ -222,6 +213,11 @@ namespace _1911147_lab6
             {
 
             }    
+        }
+
+        private void formMonan_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

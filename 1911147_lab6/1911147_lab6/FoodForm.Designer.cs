@@ -63,6 +63,7 @@ namespace _1911147_lab6
             this.dgvFood.Name = "dgvFood";
             this.dgvFood.RowHeadersWidth = 51;
             this.dgvFood.RowTemplate.Height = 24;
+            this.dgvFood.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvFood.Size = new System.Drawing.Size(655, 369);
             this.dgvFood.TabIndex = 0;
             this.dgvFood.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvFood_CellContentClick);
@@ -125,9 +126,9 @@ namespace _1911147_lab6
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(323, 9);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(102, 17);
+            this.label4.Size = new System.Drawing.Size(90, 17);
             this.label4.TabIndex = 2;
-            this.label4.Text = "ID loại món ăn:";
+            this.label4.Text = "Loại món ăn:";
             // 
             // label5
             // 
