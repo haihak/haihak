@@ -22,7 +22,7 @@ namespace _1911147_lab7
 
         }      
         private void btnAddNhom_Click(object sender, EventArgs e)
-        {
+        {//1911147
             try
             {
                 // tao doi tuong ket noi

@@ -59,6 +59,7 @@ namespace _1911147_lab7
             // 
             // btnCapNhat
             // 
+            this.btnCapNhat.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnCapNhat.AutoSize = true;
             this.btnCapNhat.Location = new System.Drawing.Point(477, 111);
             this.btnCapNhat.Name = "btnCapNhat";

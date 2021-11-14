@@ -36,14 +36,15 @@ namespace _1911147_lab7
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.tsmAddFoodToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmYdateFoodToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.xemHoaDonToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.xemTKToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.label2 = new System.Windows.Forms.Label();
             this.lblQuantity = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.lblCatName = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.txtSearchByName = new System.Windows.Forms.TextBox();
-            this.xemHoaDonToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.xemTKToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.tínhSốLượngĐãBánToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.dgvFoodList)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -88,23 +89,38 @@ namespace _1911147_lab7
             this.tsmAddFoodToolStripMenuItem,
             this.tsmYdateFoodToolStripMenuItem,
             this.xemHoaDonToolStripMenuItem,
-            this.xemTKToolStripMenuItem});
+            this.xemTKToolStripMenuItem,
+            this.tínhSốLượngĐãBánToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(211, 128);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(219, 152);
             // 
             // tsmAddFoodToolStripMenuItem
             // 
             this.tsmAddFoodToolStripMenuItem.Name = "tsmAddFoodToolStripMenuItem";
-            this.tsmAddFoodToolStripMenuItem.Size = new System.Drawing.Size(210, 24);
+            this.tsmAddFoodToolStripMenuItem.Size = new System.Drawing.Size(218, 24);
             this.tsmAddFoodToolStripMenuItem.Text = "Thêm món ăn";
             this.tsmAddFoodToolStripMenuItem.Click += new System.EventHandler(this.tsmAddFoodToolStripMenuItem_Click);
             // 
             // tsmYdateFoodToolStripMenuItem
             // 
             this.tsmYdateFoodToolStripMenuItem.Name = "tsmYdateFoodToolStripMenuItem";
-            this.tsmYdateFoodToolStripMenuItem.Size = new System.Drawing.Size(210, 24);
+            this.tsmYdateFoodToolStripMenuItem.Size = new System.Drawing.Size(218, 24);
             this.tsmYdateFoodToolStripMenuItem.Text = "Cập nhật món ăn";
             this.tsmYdateFoodToolStripMenuItem.Click += new System.EventHandler(this.tsmYdateFoodToolStripMenuItem_Click);
+            // 
+            // xemHoaDonToolStripMenuItem
+            // 
+            this.xemHoaDonToolStripMenuItem.Name = "xemHoaDonToolStripMenuItem";
+            this.xemHoaDonToolStripMenuItem.Size = new System.Drawing.Size(218, 24);
+            this.xemHoaDonToolStripMenuItem.Text = "Xem Hóa Đơn";
+            this.xemHoaDonToolStripMenuItem.Click += new System.EventHandler(this.xemHoaDonToolStripMenuItem_Click);
+            // 
+            // xemTKToolStripMenuItem
+            // 
+            this.xemTKToolStripMenuItem.Name = "xemTKToolStripMenuItem";
+            this.xemTKToolStripMenuItem.Size = new System.Drawing.Size(218, 24);
+            this.xemTKToolStripMenuItem.Text = "Xem Tài Khoản";
+            this.xemTKToolStripMenuItem.Click += new System.EventHandler(this.xemTKToolStripMenuItem_Click);
             // 
             // label2
             // 
@@ -159,19 +175,12 @@ namespace _1911147_lab7
             this.txtSearchByName.TabIndex = 4;
             this.txtSearchByName.TextChanged += new System.EventHandler(this.txtSearchByName_TextChanged);
             // 
-            // xemHoaDonToolStripMenuItem
+            // tínhSốLượngĐãBánToolStripMenuItem
             // 
-            this.xemHoaDonToolStripMenuItem.Name = "xemHoaDonToolStripMenuItem";
-            this.xemHoaDonToolStripMenuItem.Size = new System.Drawing.Size(210, 24);
-            this.xemHoaDonToolStripMenuItem.Text = "Xem Hóa Đơn";
-            this.xemHoaDonToolStripMenuItem.Click += new System.EventHandler(this.xemHoaDonToolStripMenuItem_Click);
-            // 
-            // xemTKToolStripMenuItem
-            // 
-            this.xemTKToolStripMenuItem.Name = "xemTKToolStripMenuItem";
-            this.xemTKToolStripMenuItem.Size = new System.Drawing.Size(210, 24);
-            this.xemTKToolStripMenuItem.Text = "Xem Tài Khoản";
-            this.xemTKToolStripMenuItem.Click += new System.EventHandler(this.xemTKToolStripMenuItem_Click);
+            this.tínhSốLượngĐãBánToolStripMenuItem.Name = "tínhSốLượngĐãBánToolStripMenuItem";
+            this.tínhSốLượngĐãBánToolStripMenuItem.Size = new System.Drawing.Size(218, 24);
+            this.tínhSốLượngĐãBánToolStripMenuItem.Text = "Tính số lượng đã bán";
+            this.tínhSốLượngĐãBánToolStripMenuItem.Click += new System.EventHandler(this.tínhSốLượngĐãBánToolStripMenuItem_Click);
             // 
             // formChonMon
             // 
@@ -215,6 +224,7 @@ namespace _1911147_lab7
         private System.Windows.Forms.TextBox txtSearchByName;
         private System.Windows.Forms.ToolStripMenuItem xemHoaDonToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem xemTKToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem tínhSốLượngĐãBánToolStripMenuItem;
     }
 }
 

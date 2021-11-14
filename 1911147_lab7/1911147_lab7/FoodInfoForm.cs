@@ -57,7 +57,7 @@ namespace _1911147_lab7
             nudPrice.ResetText();
             txtNotes.ResetText();
         }
-
+        //19111147
         private void btnAddFood_Click(object sender, EventArgs e)
         {
             try
@@ -113,7 +113,7 @@ namespace _1911147_lab7
             {
                 MessageBox.Show(exception.Message, "lỗi ~~");
             }
-        }
+        }//1911147
         public void DisplayFoodInfo(DataRowView rowView)
         {
             try
@@ -142,7 +142,7 @@ namespace _1911147_lab7
             }
         }
         private void btnUpdate_Click(object sender, EventArgs e)
-        {
+        {//1911147
             try
             {
                 // tao doi tuong ket noi
@@ -196,7 +196,7 @@ namespace _1911147_lab7
             {
                 MessageBox.Show(exception.Message, "lỗi ~~");
             }    
-        }
+        }//1911147
 
         private void btnCancel_Click(object sender, EventArgs e)
         {

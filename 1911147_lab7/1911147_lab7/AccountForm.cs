@@ -31,7 +31,7 @@ namespace _1911147_lab7
         private void AccountForm_Load(object sender, EventArgs e)
         {
             LoadTaiKhoan();
-        }
+        }//1911147
         private void LoadTaiKhoan()
         {   // Tạo đối tượng kết nối
             string connectionString = @"Data Source=DESKTOP-MK7TMGN\SQLEXPRESS;Initial Catalog=RestaurantManagement;Integrated Security=True";
@@ -75,7 +75,7 @@ namespace _1911147_lab7
         }
 
         private void btnThem_Click(object sender, EventArgs e)
-        {
+        {//1911147
             try
             {
                 // tao doi tuong ket noi
@@ -84,7 +84,8 @@ namespace _1911147_lab7
                 // tao doi tuong thuc thi lenh
                 SqlCommand cmd = conn.CreateCommand();
                 //thiet lap truy van
-                cmd.CommandText = string.Format("insert into Account(AccountName,Password, FullName, Email, Tell, DateCreated) values ('{0}', '{1}', N'{2}', '{3}', '{4}', '{5}')", txtTaiKhoan.Text, txtMatKhau.Text, txtHovaTen.Text, txtEmail.Text, txtSDT.Text, DateTime.Now);
+                cmd.CommandText = string.Format("insert into Account(AccountName,Password, FullName, Email, Tell, DateCreated) values ('{0}', '{1}', N'{2}', '{3}', '{4}', '{5}')",
+                    txtTaiKhoan.Text, txtMatKhau.Text, txtHovaTen.Text, txtEmail.Text, txtSDT.Text, DateTime.Now);
                 // mở kết nối
                 conn.Open();
                 // thực thi lệnh bằng phương thức ExecuteNonQuery

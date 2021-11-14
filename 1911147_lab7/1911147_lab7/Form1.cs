@@ -48,7 +48,7 @@ namespace _1911147_lab7
             // nhưng khi lấy giá trị thì lấy id của nhóm
             cbbCategory.ValueMember = "ID";
         }
-
+        //1911147
         private void cbbCategory_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (cbbCategory.SelectedIndex == -1) return;
@@ -87,41 +87,8 @@ namespace _1911147_lab7
             // tính số lượng mẫu tin
             lblQuantity.Text = foodTable.Rows.Count.ToString();
             lblCatName.Text = cbbCategory.Text;
-        }
+        }//1911147
         // Tính số lượng đã bán
-        private void tsmCalculateQuantityToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            // Tạo đối tượng kết nối
-            string connectionString = @"Data Source=DESKTOP-MK7TMGN\SQLEXPRESS;Initial Catalog=RestaurantManagement;Integrated Security=True";
-            SqlConnection conn = new SqlConnection(connectionString);
-            // tao doi tuong thuc thi lenh
-            SqlCommand cmd = conn.CreateCommand();
-            //thiet lap truy van
-            cmd.CommandText = "SELECT @numSaleFood = sum(Quantity) FROM BillDetails WHERE FoodID = @foodId";
-            // Lấy thông tin sản phẩm được chọn
-            if(dgvFoodList.SelectedRows.Count > 0)
-            {
-                DataGridViewRow selectedRow = dgvFoodList.SelectedRows[0];
-                DataRowView rowView = selectedRow.DataBoundItem as DataRowView;
-                // truyền tham số
-                cmd.Parameters.Add("@foodId", SqlDbType.Int);
-                cmd.Parameters["@foodId"].Value = rowView["ID"];
-
-                cmd.Parameters.Add("@numSaleFood", SqlDbType.Int);
-                cmd.Parameters["@numSaleFood"].Direction = ParameterDirection.Output;
-                // mở kết nối csdl
-                conn.Open();
-                // thực thi truy vấ nvaf lấy dữ liệu từ tham số
-                cmd.ExecuteNonQuery();
-
-                string result = cmd.Parameters["@numSaleFood"].Value.ToString();
-                MessageBox.Show("túm số lượng món lại " + rowView["Name"] + " đã bén là: " + result +  " " + rowView["Unit"]);
-                // đóng kết nối 
-                conn.Close();
-            }
-            cmd.Dispose();
-            conn.Dispose();
-        }
 
         private void tsmAddFoodToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -164,7 +131,7 @@ namespace _1911147_lab7
             DataView foodView = new DataView(foodTable, BoLoc, XapXepBieuThuc, rowStateFilter);
             // chỉ định foodTable làm nguồn dữ liệu của data grid view
             dgvFoodList.DataSource = foodView;
-        }
+        }//1911147
 
         private void xemHoaDonToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -177,5 +144,39 @@ namespace _1911147_lab7
             AccountForm account = new AccountForm();
             account.Show();
         }
+
+        private void tínhSốLượngĐãBánToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            // Tạo đối tượng kết nối
+            string connectionString = @"Data Source=DESKTOP-MK7TMGN\SQLEXPRESS;Initial Catalog=RestaurantManagement;Integrated Security=True";
+            SqlConnection conn = new SqlConnection(connectionString);
+            // tao doi tuong thuc thi lenh
+            SqlCommand cmd = conn.CreateCommand();
+            //thiet lap truy van
+            cmd.CommandText = "SELECT @numSaleFood = sum(Quantity) FROM BillDetails WHERE FoodID = @foodId";
+            // Lấy thông tin sản phẩm được chọn
+            if (dgvFoodList.SelectedRows.Count > 0)
+            {
+                DataGridViewRow selectedRow = dgvFoodList.SelectedRows[0];
+                DataRowView rowView = selectedRow.DataBoundItem as DataRowView;
+                // truyền tham số
+                cmd.Parameters.Add("@foodId", SqlDbType.Int);
+                cmd.Parameters["@foodId"].Value = rowView["ID"];
+
+                cmd.Parameters.Add("@numSaleFood", SqlDbType.Int);
+                cmd.Parameters["@numSaleFood"].Direction = ParameterDirection.Output;
+                // mở kết nối csdl
+                conn.Open();
+                // thực thi truy vấ nvaf lấy dữ liệu từ tham số
+                cmd.ExecuteNonQuery();
+
+                string result = cmd.Parameters["@numSaleFood"].Value.ToString();
+                MessageBox.Show("túm số lượng món lại " + rowView["Name"] + " đã bén là: " + result + " " + rowView["Unit"]);
+                // đóng kết nối 
+                conn.Close();
+            }
+            cmd.Dispose();
+            conn.Dispose();
+        }//1911147
     }
 }
