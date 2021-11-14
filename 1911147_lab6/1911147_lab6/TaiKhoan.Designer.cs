@@ -48,6 +48,7 @@ namespace _1911147_lab6
             this.btnThem = new System.Windows.Forms.Button();
             this.btnReSet = new System.Windows.Forms.Button();
             this.txtSDT = new System.Windows.Forms.TextBox();
+            this.btnCapNhat = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvTK)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -76,13 +77,14 @@ namespace _1911147_lab6
             this.xóaTàiKhoảnToolStripMenuItem,
             this.xemDanhSáchVaiTròToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(232, 52);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(232, 80);
             // 
             // xóaTàiKhoảnToolStripMenuItem
             // 
             this.xóaTàiKhoảnToolStripMenuItem.Name = "xóaTàiKhoảnToolStripMenuItem";
             this.xóaTàiKhoảnToolStripMenuItem.Size = new System.Drawing.Size(231, 24);
             this.xóaTàiKhoảnToolStripMenuItem.Text = "Xóa Tài Khoản";
+            this.xóaTàiKhoảnToolStripMenuItem.Click += new System.EventHandler(this.xóaTàiKhoảnToolStripMenuItem_Click);
             // 
             // xemDanhSáchVaiTròToolStripMenuItem
             // 
@@ -187,12 +189,13 @@ namespace _1911147_lab6
             this.btnThem.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnThem.AutoSize = true;
             this.btnThem.BackColor = System.Drawing.Color.Gainsboro;
-            this.btnThem.Location = new System.Drawing.Point(479, 114);
+            this.btnThem.Location = new System.Drawing.Point(396, 114);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 27);
             this.btnThem.TabIndex = 5;
             this.btnThem.Text = "Thêm";
             this.btnThem.UseVisualStyleBackColor = false;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // btnReSet
             // 
@@ -214,12 +217,23 @@ namespace _1911147_lab6
             this.txtSDT.Size = new System.Drawing.Size(213, 22);
             this.txtSDT.TabIndex = 6;
             // 
+            // btnCapNhat
+            // 
+            this.btnCapNhat.AutoSize = true;
+            this.btnCapNhat.Location = new System.Drawing.Point(477, 114);
+            this.btnCapNhat.Name = "btnCapNhat";
+            this.btnCapNhat.Size = new System.Drawing.Size(77, 27);
+            this.btnCapNhat.TabIndex = 7;
+            this.btnCapNhat.Text = "Cập Nhật";
+            this.btnCapNhat.UseVisualStyleBackColor = true;
+            // 
             // TaiKhoan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(645, 450);
+            this.Controls.Add(this.btnCapNhat);
             this.Controls.Add(this.txtSDT);
             this.Controls.Add(this.btnReSet);
             this.Controls.Add(this.btnThem);
@@ -265,5 +279,6 @@ namespace _1911147_lab6
         private System.Windows.Forms.ToolStripMenuItem xóaTàiKhoảnToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem xemDanhSáchVaiTròToolStripMenuItem;
         private System.Windows.Forms.TextBox txtSDT;
+        private System.Windows.Forms.Button btnCapNhat;
     }
 }

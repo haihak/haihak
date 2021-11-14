@@ -42,14 +42,14 @@ namespace _1911147_lab6
             this.txtTenMonAn = new System.Windows.Forms.TextBox();
             this.txtDoDung = new System.Windows.Forms.TextBox();
             this.txtGhiChu = new System.Windows.Forms.TextBox();
-            this.cbbLoaiMonAn = new System.Windows.Forms.ComboBox();
-            this.nudGia = new System.Windows.Forms.NumericUpDown();
             this.lblCatName = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.lblQuantity = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
+            this.txtLoaiMonAn = new System.Windows.Forms.TextBox();
+            this.txtGia = new System.Windows.Forms.TextBox();
+            this.btnThem = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvFood)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.nudGia)).BeginInit();
             this.SuspendLayout();
             // 
             // dgvFood
@@ -126,9 +126,9 @@ namespace _1911147_lab6
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(323, 9);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(90, 17);
+            this.label4.Size = new System.Drawing.Size(107, 17);
             this.label4.TabIndex = 2;
-            this.label4.Text = "Loại món ăn:";
+            this.label4.Text = "ID Loại món ăn:";
             // 
             // label5
             // 
@@ -152,6 +152,7 @@ namespace _1911147_lab6
             // 
             this.txtID.Location = new System.Drawing.Point(99, 9);
             this.txtID.Name = "txtID";
+            this.txtID.ReadOnly = true;
             this.txtID.Size = new System.Drawing.Size(218, 22);
             this.txtID.TabIndex = 3;
             // 
@@ -175,27 +176,6 @@ namespace _1911147_lab6
             this.txtGhiChu.Name = "txtGhiChu";
             this.txtGhiChu.Size = new System.Drawing.Size(218, 22);
             this.txtGhiChu.TabIndex = 3;
-            // 
-            // cbbLoaiMonAn
-            // 
-            this.cbbLoaiMonAn.FormattingEnabled = true;
-            this.cbbLoaiMonAn.Location = new System.Drawing.Point(431, 6);
-            this.cbbLoaiMonAn.Name = "cbbLoaiMonAn";
-            this.cbbLoaiMonAn.Size = new System.Drawing.Size(218, 24);
-            this.cbbLoaiMonAn.TabIndex = 4;
-            this.cbbLoaiMonAn.SelectedIndexChanged += new System.EventHandler(this.cbbLoaiMonAn_SelectedIndexChanged);
-            // 
-            // nudGia
-            // 
-            this.nudGia.Location = new System.Drawing.Point(431, 36);
-            this.nudGia.Maximum = new decimal(new int[] {
-            1000000,
-            0,
-            0,
-            0});
-            this.nudGia.Name = "nudGia";
-            this.nudGia.Size = new System.Drawing.Size(218, 22);
-            this.nudGia.TabIndex = 5;
             // 
             // lblCatName
             // 
@@ -241,18 +221,44 @@ namespace _1911147_lab6
             this.label8.TabIndex = 9;
             this.label8.Text = "Có tất cả";
             // 
+            // txtLoaiMonAn
+            // 
+            this.txtLoaiMonAn.Location = new System.Drawing.Point(431, 6);
+            this.txtLoaiMonAn.Name = "txtLoaiMonAn";
+            this.txtLoaiMonAn.Size = new System.Drawing.Size(218, 22);
+            this.txtLoaiMonAn.TabIndex = 10;
+            // 
+            // txtGia
+            // 
+            this.txtGia.Location = new System.Drawing.Point(431, 36);
+            this.txtGia.Name = "txtGia";
+            this.txtGia.Size = new System.Drawing.Size(218, 22);
+            this.txtGia.TabIndex = 11;
+            // 
+            // btnThem
+            // 
+            this.btnThem.AutoSize = true;
+            this.btnThem.Location = new System.Drawing.Point(404, 112);
+            this.btnThem.Name = "btnThem";
+            this.btnThem.Size = new System.Drawing.Size(75, 29);
+            this.btnThem.TabIndex = 12;
+            this.btnThem.Text = "Thêm";
+            this.btnThem.UseVisualStyleBackColor = true;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
+            // 
             // frmFood
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(653, 544);
+            this.Controls.Add(this.btnThem);
+            this.Controls.Add(this.txtGia);
+            this.Controls.Add(this.txtLoaiMonAn);
             this.Controls.Add(this.lblCatName);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.lblQuantity);
             this.Controls.Add(this.label8);
-            this.Controls.Add(this.nudGia);
-            this.Controls.Add(this.cbbLoaiMonAn);
             this.Controls.Add(this.txtDoDung);
             this.Controls.Add(this.txtTenMonAn);
             this.Controls.Add(this.txtGhiChu);
@@ -272,7 +278,6 @@ namespace _1911147_lab6
             this.Text = "FoodForm";
             this.Load += new System.EventHandler(this.frmFood_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvFood)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.nudGia)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -293,11 +298,12 @@ namespace _1911147_lab6
         private System.Windows.Forms.TextBox txtTenMonAn;
         private System.Windows.Forms.TextBox txtDoDung;
         private System.Windows.Forms.TextBox txtGhiChu;
-        private System.Windows.Forms.ComboBox cbbLoaiMonAn;
-        private System.Windows.Forms.NumericUpDown nudGia;
         private System.Windows.Forms.Label lblCatName;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label lblQuantity;
         private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.TextBox txtLoaiMonAn;
+        private System.Windows.Forms.TextBox txtGia;
+        private System.Windows.Forms.Button btnThem;
     }
 }

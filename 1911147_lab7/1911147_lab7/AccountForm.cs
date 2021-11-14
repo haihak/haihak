@@ -9,18 +9,28 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _1911147_lab6
+namespace _1911147_lab7
 {
-    public partial class TaiKhoan : Form
+    public partial class AccountForm : Form
     {
-        public TaiKhoan()
+        public AccountForm()
         {
             InitializeComponent();
         }
 
-        private void TaiKhoan_Load(object sender, EventArgs e)
+        private void btnReSet_Click(object sender, EventArgs e)
         {
-            this.LoadTaiKhoan();
+            this.txtTaiKhoan.Text = "";
+            this.txtMatKhau.Text = "";
+            this.txtHovaTen.Text = "";
+            this.txtEmail.Text = "";
+            this.txtSDT.Text = "";
+            this.dtpTGDK.Value = DateTime.Now;
+        }
+
+        private void AccountForm_Load(object sender, EventArgs e)
+        {
+            LoadTaiKhoan();
         }
         private void LoadTaiKhoan()
         {   // Tạo đối tượng kết nối
@@ -30,7 +40,7 @@ namespace _1911147_lab6
             SqlCommand cmd = conn.CreateCommand();
             // thiết lập truy vấn
             cmd.CommandText = "SELECT AccountName as[Tài Khoản],Password as[Mật Khẩu],FullName as[Họ và Tên],Email,Tell as[Số Điện Thoại],DateCreated as[Ngày Tạo] FROM Account";
-            
+
             SqlDataAdapter adapter = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
             // mở kết nối
@@ -43,7 +53,15 @@ namespace _1911147_lab6
             // nhập dữ liệu vào DatagridView
             dgvTK.DataSource = dt;
         }
-
+        private void ResetText()
+        {
+            txtTaiKhoan.ResetText();
+            txtMatKhau.ResetText();
+            txtHovaTen.ResetText();
+            txtEmail.ResetText();
+            txtSDT.ResetText();
+            dtpTGDK.ResetText();
+        }
         private void dgvTK_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             int i;
@@ -52,18 +70,8 @@ namespace _1911147_lab6
             txtMatKhau.Text = dgvTK.Rows[i].Cells[1].Value.ToString();
             txtHovaTen.Text = dgvTK.Rows[i].Cells[2].Value.ToString();
             txtEmail.Text = dgvTK.Rows[i].Cells[3].Value.ToString();
-            txtSDT.Text =   dgvTK.Rows[i].Cells[4].Value.ToString();
+            txtSDT.Text = dgvTK.Rows[i].Cells[4].Value.ToString();
             dtpTGDK.Text = dgvTK.Rows[i].Cells[5].Value.ToString();
-        }
-
-        private void btnReSet_Click(object sender, EventArgs e)
-        {
-            this.txtHovaTen.Text= "";
-            this.txtMatKhau.Text = "";
-            this.txtHovaTen.Text = "";
-            this.txtEmail.Text = "";
-            this.txtSDT.Text = "";
-            this.dtpTGDK.Value = DateTime.Now;
         }
 
         private void btnThem_Click(object sender, EventArgs e)
@@ -107,35 +115,9 @@ namespace _1911147_lab6
             }
         }
 
-        private void xóaTàiKhoảnToolStripMenuItem_Click(object sender, EventArgs e)
+        private void btnCapNhat_Click(object sender, EventArgs e)
         {
-            if (dgvTK.SelectedRows.Count == 0) return;
-            var selectedRow = dgvTK.SelectedRows[0];
-            string AccountName = selectedRow.Cells[0].Value.ToString();
-            // Tạo đối tượng kết nối
-            string connectionString = @"Data Source=DESKTOP-MK7TMGN\SQLEXPRESS;Initial Catalog=RestaurantManagement;Integrated Security=True";
-            SqlConnection conn = new SqlConnection(connectionString);
-            //Tạo đối tượng thực thi lệnh
-            SqlCommand command;
-            command = conn.CreateCommand();
-            // Tạo truy vấn
-            string query = "DELETE DROM Account WHERE AccountName" + AccountName;
-            command.CommandText = query;
-            // Mở kết nối
-            conn.Open();
-            int numOfRowsEffected = command.ExecuteNonQuery();
-            if (numOfRowsEffected != 1)
-            {
-                MessageBox.Show("không được rồi", "bèm", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
-            }
-            else
-            {
-                MessageBox.Show("ế xóa được rồi", "Tèn Ten", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-            dgvTK.Rows.Remove(selectedRow);
-            // Đóng kết nối
-            conn.Close();
+
         }
     }
 }

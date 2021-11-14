@@ -34,8 +34,6 @@ namespace _1911147_lab7
             this.cbbCategory = new System.Windows.Forms.ComboBox();
             this.dgvFoodList = new System.Windows.Forms.DataGridView();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.tsmCalculateQuantityToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.tsmSeperatorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmAddFoodToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmYdateFoodToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.label2 = new System.Windows.Forms.Label();
@@ -44,6 +42,8 @@ namespace _1911147_lab7
             this.lblCatName = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.txtSearchByName = new System.Windows.Forms.TextBox();
+            this.xemHoaDonToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.xemTKToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.dgvFoodList)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -77,6 +77,7 @@ namespace _1911147_lab7
             this.dgvFoodList.Name = "dgvFoodList";
             this.dgvFoodList.RowHeadersWidth = 51;
             this.dgvFoodList.RowTemplate.Height = 24;
+            this.dgvFoodList.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvFoodList.Size = new System.Drawing.Size(799, 385);
             this.dgvFoodList.TabIndex = 2;
             // 
@@ -84,38 +85,25 @@ namespace _1911147_lab7
             // 
             this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.tsmCalculateQuantityToolStripMenuItem,
-            this.tsmSeperatorToolStripMenuItem,
             this.tsmAddFoodToolStripMenuItem,
-            this.tsmYdateFoodToolStripMenuItem});
+            this.tsmYdateFoodToolStripMenuItem,
+            this.xemHoaDonToolStripMenuItem,
+            this.xemTKToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(220, 100);
-            // 
-            // tsmCalculateQuantityToolStripMenuItem
-            // 
-            this.tsmCalculateQuantityToolStripMenuItem.Name = "tsmCalculateQuantityToolStripMenuItem";
-            this.tsmCalculateQuantityToolStripMenuItem.Size = new System.Drawing.Size(219, 24);
-            this.tsmCalculateQuantityToolStripMenuItem.Text = "tsmCalculateQuantity";
-            this.tsmCalculateQuantityToolStripMenuItem.Click += new System.EventHandler(this.tsmCalculateQuantityToolStripMenuItem_Click);
-            // 
-            // tsmSeperatorToolStripMenuItem
-            // 
-            this.tsmSeperatorToolStripMenuItem.Name = "tsmSeperatorToolStripMenuItem";
-            this.tsmSeperatorToolStripMenuItem.Size = new System.Drawing.Size(219, 24);
-            this.tsmSeperatorToolStripMenuItem.Text = "tsmSeperator";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(211, 128);
             // 
             // tsmAddFoodToolStripMenuItem
             // 
             this.tsmAddFoodToolStripMenuItem.Name = "tsmAddFoodToolStripMenuItem";
-            this.tsmAddFoodToolStripMenuItem.Size = new System.Drawing.Size(219, 24);
-            this.tsmAddFoodToolStripMenuItem.Text = "tsmAddFood";
+            this.tsmAddFoodToolStripMenuItem.Size = new System.Drawing.Size(210, 24);
+            this.tsmAddFoodToolStripMenuItem.Text = "Thêm món ăn";
             this.tsmAddFoodToolStripMenuItem.Click += new System.EventHandler(this.tsmAddFoodToolStripMenuItem_Click);
             // 
             // tsmYdateFoodToolStripMenuItem
             // 
             this.tsmYdateFoodToolStripMenuItem.Name = "tsmYdateFoodToolStripMenuItem";
-            this.tsmYdateFoodToolStripMenuItem.Size = new System.Drawing.Size(219, 24);
-            this.tsmYdateFoodToolStripMenuItem.Text = "tsmUpdateFood";
+            this.tsmYdateFoodToolStripMenuItem.Size = new System.Drawing.Size(210, 24);
+            this.tsmYdateFoodToolStripMenuItem.Text = "Cập nhật món ăn";
             this.tsmYdateFoodToolStripMenuItem.Click += new System.EventHandler(this.tsmYdateFoodToolStripMenuItem_Click);
             // 
             // label2
@@ -171,10 +159,25 @@ namespace _1911147_lab7
             this.txtSearchByName.TabIndex = 4;
             this.txtSearchByName.TextChanged += new System.EventHandler(this.txtSearchByName_TextChanged);
             // 
+            // xemHoaDonToolStripMenuItem
+            // 
+            this.xemHoaDonToolStripMenuItem.Name = "xemHoaDonToolStripMenuItem";
+            this.xemHoaDonToolStripMenuItem.Size = new System.Drawing.Size(210, 24);
+            this.xemHoaDonToolStripMenuItem.Text = "Xem Hóa Đơn";
+            this.xemHoaDonToolStripMenuItem.Click += new System.EventHandler(this.xemHoaDonToolStripMenuItem_Click);
+            // 
+            // xemTKToolStripMenuItem
+            // 
+            this.xemTKToolStripMenuItem.Name = "xemTKToolStripMenuItem";
+            this.xemTKToolStripMenuItem.Size = new System.Drawing.Size(210, 24);
+            this.xemTKToolStripMenuItem.Text = "Xem Tài Khoản";
+            this.xemTKToolStripMenuItem.Click += new System.EventHandler(this.xemTKToolStripMenuItem_Click);
+            // 
             // formChonMon
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.txtSearchByName);
             this.Controls.Add(this.lblCatName);
@@ -206,12 +209,12 @@ namespace _1911147_lab7
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label lblCatName;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem tsmCalculateQuantityToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem tsmSeperatorToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem tsmAddFoodToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem tsmYdateFoodToolStripMenuItem;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox txtSearchByName;
+        private System.Windows.Forms.ToolStripMenuItem xemHoaDonToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem xemTKToolStripMenuItem;
     }
 }
 

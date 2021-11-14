@@ -27,8 +27,9 @@ namespace _1911147_lab7
             // tao doi tuong ket noi
             string connectionString = @"Data Source=DESKTOP-MK7TMGN\SQLEXPRESS;Initial Catalog=RestaurantManagement;Integrated Security=True";
             SqlConnection conn = new SqlConnection(connectionString);
-
+            //tao doi tuong thuc thi lenh
             SqlCommand cmd = conn.CreateCommand();
+            //thiet lap truy van
             cmd.CommandText = "SELECT ID, Name FROM Category";
             SqlDataAdapter adapter = new SqlDataAdapter(cmd);
             DataSet ds = new DataSet();
@@ -64,8 +65,9 @@ namespace _1911147_lab7
             // tao doi tuong ket noi
             string connectionString = @"Data Source=DESKTOP-MK7TMGN\SQLEXPRESS;Initial Catalog=RestaurantManagement;Integrated Security=True";
             SqlConnection conn = new SqlConnection(connectionString);
-
+            // tao doi tuong thuc thi lenh
             SqlCommand cmd = conn.CreateCommand();
+            //thiet lap truy van
             cmd.CommandText = "EXECUTE InsertFood @id OUTPUT, @name, @unit, @foodCategoryId, @price, @notes";
             // thêm tham số vào đối tượng command
             cmd.Parameters.Add("@id", SqlDbType.Int);
@@ -109,7 +111,7 @@ namespace _1911147_lab7
             }
             catch(Exception exception)
             {
-                MessageBox.Show(exception.Message, "Error");
+                MessageBox.Show(exception.Message, "lỗi ~~");
             }
         }
         public void DisplayFoodInfo(DataRowView rowView)
@@ -146,8 +148,9 @@ namespace _1911147_lab7
                 // tao doi tuong ket noi
                 string connectionString = @"Data Source=DESKTOP-MK7TMGN\SQLEXPRESS;Initial Catalog=RestaurantManagement;Integrated Security=True";
                 SqlConnection conn = new SqlConnection(connectionString);
-
+                // tao doi tuong thuc thi lenh
                 SqlCommand cmd = conn.CreateCommand();
+                //thiet lap truy van
                 cmd.CommandText = "EXECUTE UpdateFood @id , @name, @unit, @foodCategoryId, @price, @notes";
                 // thêm tham số vào đối tượng command
                 cmd.Parameters.Add("@id", SqlDbType.Int);
@@ -198,6 +201,20 @@ namespace _1911147_lab7
         private void btnCancel_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void btnAddNew_Click(object sender, EventArgs e)
+        {
+            ThemNhomThucAn themnhomthucan = new ThemNhomThucAn();
+            themnhomthucan.FormClosed += new FormClosedEventHandler(FoodInfoForm_FormClosed);
+            themnhomthucan.Show();
+        }
+
+        private void FoodInfoForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            int index = cbbCatName.SelectedIndex;
+            cbbCatName.SelectedIndex = -1;
+            cbbCatName.SelectedIndex = index;
         }
     }
 }

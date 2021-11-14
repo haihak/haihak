@@ -27,8 +27,9 @@ namespace _1911147_lab7
         {   // Tạo đối tượng kết nối
             string connectionString = @"Data Source=DESKTOP-MK7TMGN\SQLEXPRESS;Initial Catalog=RestaurantManagement;Integrated Security=True";
             SqlConnection conn = new SqlConnection(connectionString);
-
+            //tao doi tuong thuc thi lenh
             SqlCommand cmd = conn.CreateCommand();
+            //thiet lap truy van
             cmd.CommandText = "SELECT ID, Name FROM Category";
 
             SqlDataAdapter adapter = new SqlDataAdapter(cmd);
@@ -46,7 +47,7 @@ namespace _1911147_lab7
             cbbCategory.DisplayMember = "Name";
             // nhưng khi lấy giá trị thì lấy id của nhóm
             cbbCategory.ValueMember = "ID";
-    }
+        }
 
         private void cbbCategory_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -54,8 +55,9 @@ namespace _1911147_lab7
             // tạo đối tượng kết nối
             string connectionString = @"Data Source=DESKTOP-MK7TMGN\SQLEXPRESS;Initial Catalog=RestaurantManagement;Integrated Security=True";
             SqlConnection conn = new SqlConnection(connectionString);
-
+            //tao doi tuong thuc thi lenh
             SqlCommand cmd = conn.CreateCommand();
+            //thiet lap truy van
             cmd.CommandText = "SELECT * FROM Food WHERE FoodCategoryID = @categoryId";
             
             // Truyền tham số
@@ -92,8 +94,9 @@ namespace _1911147_lab7
             // Tạo đối tượng kết nối
             string connectionString = @"Data Source=DESKTOP-MK7TMGN\SQLEXPRESS;Initial Catalog=RestaurantManagement;Integrated Security=True";
             SqlConnection conn = new SqlConnection(connectionString);
-
+            // tao doi tuong thuc thi lenh
             SqlCommand cmd = conn.CreateCommand();
+            //thiet lap truy van
             cmd.CommandText = "SELECT @numSaleFood = sum(Quantity) FROM BillDetails WHERE FoodID = @foodId";
             // Lấy thông tin sản phẩm được chọn
             if(dgvFoodList.SelectedRows.Count > 0)
@@ -161,6 +164,18 @@ namespace _1911147_lab7
             DataView foodView = new DataView(foodTable, BoLoc, XapXepBieuThuc, rowStateFilter);
             // chỉ định foodTable làm nguồn dữ liệu của data grid view
             dgvFoodList.DataSource = foodView;
+        }
+
+        private void xemHoaDonToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OrdersForm orders = new OrdersForm();
+            orders.Show();
+        }
+
+        private void xemTKToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AccountForm account = new AccountForm();
+            account.Show();
         }
     }
 }

@@ -9,3 +9,6 @@ D:\download\csdl 2\bai tap\1911147_lab7\1911147_lab7\obj\Debug\1911147_lab7.exe
 D:\download\csdl 2\bai tap\1911147_lab7\1911147_lab7\obj\Debug\1911147_lab7.pdb
 D:\download\csdl 2\bai tap\1911147_lab7\1911147_lab7\obj\Debug\_1911147_lab7.formChonMon.resources
 D:\download\csdl 2\bai tap\1911147_lab7\1911147_lab7\obj\Debug\_1911147_lab7.FoodInfoForm.resources
+D:\download\csdl 2\bai tap\1911147_lab7\1911147_lab7\obj\Debug\_1911147_lab7.ThemNhomThucAn.resources
+D:\download\csdl 2\bai tap\1911147_lab7\1911147_lab7\obj\Debug\_1911147_lab7.OrdersForm.resources
+D:\download\csdl 2\bai tap\1911147_lab7\1911147_lab7\obj\Debug\_1911147_lab7.AccountForm.resources

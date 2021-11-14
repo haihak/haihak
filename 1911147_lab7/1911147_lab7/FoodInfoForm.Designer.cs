@@ -146,13 +146,15 @@ namespace _1911147_lab7
             // 
             // btnAddNew
             // 
-            this.btnAddNew.Location = new System.Drawing.Point(387, 102);
+            this.btnAddNew.AutoSize = true;
+            this.btnAddNew.Location = new System.Drawing.Point(386, 98);
             this.btnAddNew.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnAddNew.Name = "btnAddNew";
-            this.btnAddNew.Size = new System.Drawing.Size(75, 23);
+            this.btnAddNew.Size = new System.Drawing.Size(75, 27);
             this.btnAddNew.TabIndex = 3;
             this.btnAddNew.Text = "Add New";
             this.btnAddNew.UseVisualStyleBackColor = true;
+            this.btnAddNew.Click += new System.EventHandler(this.btnAddNew_Click);
             // 
             // btnAddFood
             // 
@@ -225,6 +227,7 @@ namespace _1911147_lab7
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "FoodInfoForm";
             this.Text = "FoodInfoForm";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FoodInfoForm_FormClosed);
             this.Load += new System.EventHandler(this.FoodInfoForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.nudPrice)).EndInit();
             this.ResumeLayout(false);

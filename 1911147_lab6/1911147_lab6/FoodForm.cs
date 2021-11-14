@@ -13,41 +13,14 @@ namespace _1911147_lab6
 {
     public partial class frmFood : Form
     {
-        private DataTable foodTable;
+        //private DataTable foodTable;
         public frmFood()
         {
             InitializeComponent();
         }
         private void frmFood_Load(object sender, EventArgs e)
         {
-            LoadCategory();
-        }
-        private void LoadCategory()
-        {   
-            string connectionString = @"Data Source=DESKTOP-MK7TMGN\SQLEXPRESS;Initial Catalog=RestaurantManagement;Integrated Security=True";
-            // Tạo đối tượng kết nối
-            SqlConnection conn = new SqlConnection(connectionString);
-
-            SqlCommand cmd = conn.CreateCommand();
-            cmd.CommandText = "SELECT ID, Name FROM Category";
-
-            SqlDataAdapter adapter = new SqlDataAdapter(cmd);
-            DataTable dt = new DataTable();
-            // mở kết nối
-            conn.Open();
-            // Lấy dữ liệu từ csdl đưa vào database
-            adapter.Fill(dt);
-            // đóng kêt nối và giải phóng bộ nhớ
-            conn.Close();
-            conn.Dispose();
-            // đưa dữ liệu vào combobox
-            cbbLoaiMonAn.DataSource = dt;
-            // hiển thị tên nhóm sản phẩm
-            cbbLoaiMonAn.DisplayMember = "Name";
-            // nhưng khi lấy giá trị thì lấy id của nhóm
-            cbbLoaiMonAn.ValueMember = "ID";
-        }
-
+        }  
         public void LoadFood(int categoryID)
         {
            
@@ -86,19 +59,19 @@ namespace _1911147_lab6
             txtID.Text = dgvFood.Rows[i].Cells[0].Value.ToString();
             txtTenMonAn.Text = dgvFood.Rows[i].Cells[1].Value.ToString();
             txtDoDung.Text = dgvFood.Rows[i].Cells[2].Value.ToString();
-            cbbLoaiMonAn.Text = dgvFood.Rows[i].Cells[3].Value.ToString();
-            nudGia.Text = dgvFood.Rows[i].Cells[4].Value.ToString();
+            txtLoaiMonAn.Text = dgvFood.Rows[i].Cells[3].Value.ToString();
+            txtGia.Text = dgvFood.Rows[i].Cells[4].Value.ToString();
             txtGhiChu.Text = dgvFood.Rows[i].Cells[5].Value.ToString();
         }
         private void btnSave_Click(object sender, EventArgs e)
-        {/*
+        {
             // tạo đối tượng kết nối
             string connectionString = @"Data Source=DESKTOP-MK7TMGN\SQLEXPRESS;Initial Catalog=RestaurantManagement;Integrated Security=True";
             SqlConnection sqlConnection = new SqlConnection(connectionString);
             //tạo đối tượng thực thi lệnh
             SqlCommand sqlCommand = sqlConnection.CreateCommand();
             // thiết lập lệnh truy vấn cho đối tượng command
-            sqlCommand.CommandText = "UPDATE Food SET Name = N'" + txtTenMonAn.Text + "', Unit = '" + txtDoDung.Text + "', FoodCategoryID = " + cbbLoaiMonAn.Text + ", Price = " + nudGia.Text + ", Notes = '" + txtGhiChu.Text + "'" + " WHERE ID = " + txtID.Text;
+            sqlCommand.CommandText = "UPDATE Food SET Name = N'" + txtTenMonAn.Text + "', Unit = N'" + txtDoDung.Text + "', FoodCategoryID = " + txtLoaiMonAn.Text + ", Price = " + txtGia.Text + ", Notes = N'" + txtGhiChu.Text + "'" + " WHERE ID = " + txtID.Text;
             // mở kết nối tới csdl
             sqlConnection.Open();
             // thực thi lệnh bằng phương thức ExcuteReader
@@ -107,59 +80,21 @@ namespace _1911147_lab6
             sqlConnection.Close();
             if (numOfRowsEffected == 1)
             {
-                MessageBox.Show("ngon, thêm thành công");
+                MessageBox.Show("ngon, lưu(cập nhật) thành công");
                 //Tải lại dữ liệu
-                LoadFood(Convert.ToInt32(cbbLoaiMonAn.Text));
+                LoadFood(Convert.ToInt32(txtLoaiMonAn.Text));
                 // xoá các ô đã nhập
                 txtTenMonAn.Text = "";
                 txtDoDung.Text = "";
-                cbbLoaiMonAn.Text = "";
-                nudGia.Text = "";
+                txtLoaiMonAn.Text = "";
+                txtGia.Text = "";
                 txtGhiChu.Text = "";
             }
             else
             {
                 MessageBox.Show("Lỗi rồi :< thử lại xem");
-            }*/
+            }          
         }         
-        private void cbbLoaiMonAn_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            if (cbbLoaiMonAn.SelectedIndex == -1) return;
-            // tạo đối tượng kết nối
-            string connectionString = @"Data Source=DESKTOP-MK7TMGN\SQLEXPRESS;Initial Catalog=RestaurantManagement;Integrated Security=True";
-            SqlConnection conn = new SqlConnection(connectionString);
-
-            SqlCommand cmd = conn.CreateCommand();            
-            cmd.CommandText = "SELECT * FROM Food WHERE FoodCategoryID = @categoryId";
-
-            // Truyền tham số
-            cmd.Parameters.Add("@categoryId", SqlDbType.Int);
-
-            if (cbbLoaiMonAn.SelectedValue is DataRowView)
-            {
-                DataRowView rowView = cbbLoaiMonAn.SelectedValue as DataRowView;
-                cmd.Parameters["@categoryId"].Value = rowView["ID"];
-            }
-            else
-            {
-                cmd.Parameters["@categoryId"].Value = cbbLoaiMonAn.SelectedValue;
-            }
-            //tạo bộ điểu phiếu dữ liệu
-            SqlDataAdapter adapter = new SqlDataAdapter(cmd);
-            foodTable = new DataTable();
-            // mở kết nối
-            conn.Open();
-            // Lấy dữ liệu từ csdl đưa vào datatable
-            adapter.Fill(foodTable);
-            // đóng kêt nối và giải phóng bộ nhớ
-            conn.Close();
-            conn.Dispose();
-            // đưa dữ liệu vào dât gridview
-            dgvFood.DataSource = foodTable;
-            // tính số lượng mẫu tin
-            lblQuantity.Text = foodTable.Rows.Count.ToString();
-            lblCatName.Text = cbbLoaiMonAn.Text;
-        }
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
@@ -190,6 +125,40 @@ namespace _1911147_lab6
             dgvFood.Rows.Remove(selectedRow);
             // Đóng kết nối
             conn.Close();
+        }
+
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+            // tạo đối tượng kết nối
+            string connectionString = @"Data Source=DESKTOP-MK7TMGN\SQLEXPRESS;Initial Catalog=RestaurantManagement;Integrated Security=True";
+            SqlConnection sqlConnection = new SqlConnection(connectionString);
+            //tạo đối tượng thực thi lệnh
+            SqlCommand sqlCommand = sqlConnection.CreateCommand();
+            // thiết lập lệnh truy vấn cho đối tượng command
+            sqlCommand.CommandText = "INSERT INTO Food (Name,Unit,FoodCategoryID,Price,Notes)" + "VALUES (N'"+txtTenMonAn.Text+"','"+txtDoDung.Text+"','"+txtLoaiMonAn.Text+"','"+txtGia.Text+"','"+txtGhiChu.Text+"')";
+            // mở kết nối tới csdl
+            sqlConnection.Open();
+            // thực thi lệnh bằng phương thức ExcuteReader
+            int numOfRowsEffected = sqlCommand.ExecuteNonQuery();
+            
+            if (numOfRowsEffected == 1)
+            {
+                MessageBox.Show("ngon, thêm thành công");
+                //Tải lại dữ liệu
+                btnSave.PerformClick();
+                // xoá các ô đã nhập
+                txtTenMonAn.Text = "";
+                txtDoDung.Text = "";
+                txtLoaiMonAn.Text = "";
+                txtGia.Text = "";
+                txtGhiChu.Text = "";
+            }
+            else
+            {
+                MessageBox.Show("Lỗi rồi :< thử lại xem");
+            }
+            // đóng kết nối
+            sqlConnection.Close();
         }
     }
 }
