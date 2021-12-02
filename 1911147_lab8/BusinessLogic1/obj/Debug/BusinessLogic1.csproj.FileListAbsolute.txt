@@ -1,0 +1,9 @@
+D:\download\csdl 2\bai tap\1911147_lab8\BusinessLogic1\bin\Debug\BusinessLogic1.dll
+D:\download\csdl 2\bai tap\1911147_lab8\BusinessLogic1\bin\Debug\BusinessLogic1.pdb
+D:\download\csdl 2\bai tap\1911147_lab8\BusinessLogic1\bin\Debug\DataAccess.dll
+D:\download\csdl 2\bai tap\1911147_lab8\BusinessLogic1\bin\Debug\DataAccess.pdb
+D:\download\csdl 2\bai tap\1911147_lab8\BusinessLogic1\obj\Debug\BusinessLogic1.csproj.AssemblyReference.cache
+D:\download\csdl 2\bai tap\1911147_lab8\BusinessLogic1\obj\Debug\BusinessLogic1.csproj.CoreCompileInputs.cache
+D:\download\csdl 2\bai tap\1911147_lab8\BusinessLogic1\obj\Debug\BusinessLogic1.csproj.CopyComplete
+D:\download\csdl 2\bai tap\1911147_lab8\BusinessLogic1\obj\Debug\BusinessLogic1.dll
+D:\download\csdl 2\bai tap\1911147_lab8\BusinessLogic1\obj\Debug\BusinessLogic1.pdb

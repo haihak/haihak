@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0573a89d-1785-47c4-b919-2008b50aadd6": {
+      "ProjectGuid": "0573a89d-1785-47c4-b919-2008b50aadd6",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 0
+    },
+    "c993571d-73bf-48d4-86d8-f577ae849d9d": {
+      "ProjectGuid": "c993571d-73bf-48d4-86d8-f577ae849d9d",
+      "DisplayName": "1911147_lab8",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

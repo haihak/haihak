@@ -1,0 +1,6 @@
+D:\download\csdl 2\bai tap\1911147_lab8\DataAccess\bin\Debug\DataAccess.dll
+D:\download\csdl 2\bai tap\1911147_lab8\DataAccess\bin\Debug\DataAccess.pdb
+D:\download\csdl 2\bai tap\1911147_lab8\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\download\csdl 2\bai tap\1911147_lab8\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\download\csdl 2\bai tap\1911147_lab8\DataAccess\obj\Debug\DataAccess.dll
+D:\download\csdl 2\bai tap\1911147_lab8\DataAccess\obj\Debug\DataAccess.pdb
