@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T07:51:55.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="4T6E2sLqAcPUvfEDDYnT" version="15.9.4" type="github"><diagram id="GhecuStuP_ve887YyBlI" name="Page-1">5VlLk5s4EP41VGUPmULmYftozHhzmN2aiqdqk6MMMqgiI1YIe5xfvy0Q5mU8dhLPUpU5jFFLaon+PvVDGNZy9/qnwGn8Fw8JMyZm+GpYvjGZINN14EdJjqXEdtxSEAka6kG1YE2/k2qmluY0JFlroOScSZq2hQFPEhLIlgwLwQ/tYVvO2qumOCI9wTrArC/9h4YyLqWzybSWfyI0iquVkTsve3a4GqzfJItxyA8NkfVoWEvBuSyfdq9LwpTxKruU81YDvaeNCZLIaya8zCOM9pNDQvar1ad/vz9/ZuKj1rLHLNcvrDcrj5UFYN+pesx37IluCaMJtDxYV9KAprhYHPoWgeRCdRBBd0QSePaZHv9cy7xDTCVZpzhQOg9AGpDFcsegheARcJQYpohTmzGcZnRTbMcEiSBBLjK6J59JVtJFSfdE7QezBaNRAjLJleIM1qFJ9KIavuWChOdS7Wh5oouarI0AKsjroHXRCTMgO+HwPuIIQ/QEW6OsaY6mun2oSVMRIW7w5STEmqfRSXMNJTxoNG9AdvI2sg2zp5wmstiC4xmO38GRCxnziCeYNZG8ymrDrBs0pdOypNM3JDpjSOTey5BW35DWwv8CIiCRFMBPsMaVh+b/ORv34vwJmwukR+a7st7ugfXVWFrGYpGrGGE8IsNbGIupahlL25gj9X9mJZF6q7zqd2QPUJKECxVOoLVhPPgGFgSRjlfILZsrqnZbmLcBm+B5EpJQd5AQ4ovWW5+rx1qqkVHjbjtV1kWwPpoPqHO00Bm4qmMkCMMSiNQOqGfg0gs+KwfSWA3N2tyYdhDPeC4Comc1o1ZHkX1ZjcQiIvKCmmog324z0hpT8Otkpx+nnDNiR3uZEvbIPK076GnXROwpeMXf0s3a09G52emIOe/ewvmzpjzD+btZcjbIeR9L7OHsNyW9Oz7Sz0dM+tktpEfWday372XJarGmKVU2ZtbZmIt3iqHJJksLw7gMNuVtINN2I/V0OVl7M8dqAIV1xcjIVtYl41PR8idlYtdN/TopHZQBxy9aXdH42joIt6dy2iuU2c1blByE3XwwXUe76p/M57qZProunQO74WNjmD4Ug8vMzi9Tc61U+O45Hurfk8BKa5JllCcfzD/6DBx/uXDZZUC5YDrVXd171AuW04X+wWz8oY7Kq+uH29SOoJ5A/ZubJ0A9lx9oOHaiDcT0+/PHmrQ9ByR2bZx/jD2OeZPaMbCnf131IopQ6RnzlerQjRns3Ywo5vAT0ko4Tc7djCRxFWz9tB+ah3Og7qXshkvJd+2QylMCXV6Is7jgImoxePauPG34Pnvq/hJidkOa5VwXOXuKpm/oGQP3+rdvf0fG0jU8s2KgTxXd1JWcN1fU6nAH8l55PjsLALsiR+5yakfDsIBdqLIE1/VKPwHHueS6dFGqMyn4N6hcmPpu4Se8KKO24Co7IuPnqxnUyWvsviecnatlbk/AoVl/UiqBrT/MWY//AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-09T12:39:13.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="GtKdPRALSRSmwJRD8rg4" version="15.9.4" type="github">
+  <diagram id="GhecuStuP_ve887YyBlI" name="Page-1">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T9ga1v2wnevFFHqzPRlr-1" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="170" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="T9ga1v2wnevFFHqzPRlr-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="T9ga1v2wnevFFHqzPRlr-1" vertex="1">
+          <mxGeometry x="5" y="50" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="T9ga1v2wnevFFHqzPRlr-3" value=":DX Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="170" width="100" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="T9ga1v2wnevFFHqzPRlr-4" value="Yêu cầu đăng xuất" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="T9ga1v2wnevFFHqzPRlr-3" edge="1">
+          <mxGeometry x="-0.125" y="10" width="160" relative="1" as="geometry">
+            <mxPoint x="-180" y="70" as="sourcePoint" />
+            <mxPoint x="40" y="70" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9ga1v2wnevFFHqzPRlr-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="T9ga1v2wnevFFHqzPRlr-3" vertex="1">
+          <mxGeometry x="45" y="50" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="T9ga1v2wnevFFHqzPRlr-6" value=":DX DataAccess" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="170" width="100" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="T9ga1v2wnevFFHqzPRlr-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="T9ga1v2wnevFFHqzPRlr-6" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="T9ga1v2wnevFFHqzPRlr-8" value=":DX DataBase" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="170" width="100" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="T9ga1v2wnevFFHqzPRlr-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="T9ga1v2wnevFFHqzPRlr-8" vertex="1">
+          <mxGeometry x="45" y="130" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T9ga1v2wnevFFHqzPRlr-10" value="Đăng&amp;nbsp;&lt;br&gt;xuất" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="T9ga1v2wnevFFHqzPRlr-8" target="T9ga1v2wnevFFHqzPRlr-9" edge="1">
+          <mxGeometry x="0.0657" relative="1" as="geometry">
+            <mxPoint x="50" y="110" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="110" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9ga1v2wnevFFHqzPRlr-11" value="setSession(0)" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="T9ga1v2wnevFFHqzPRlr-8" edge="1">
+          <mxGeometry x="-0.0556" y="10" width="160" relative="1" as="geometry">
+            <mxPoint x="-135" y="110.00000000000011" as="sourcePoint" />
+            <mxPoint x="45" y="110.00000000000011" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9ga1v2wnevFFHqzPRlr-12" value="Logout(id)" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+          <mxGeometry y="10" width="160" relative="1" as="geometry">
+            <mxPoint x="320" y="270.0000000000001" as="sourcePoint" />
+            <mxPoint x="500" y="270.0000000000001" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9ga1v2wnevFFHqzPRlr-13" value="Trở về giao diện đăng nhập&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+          <mxGeometry x="-0.0476" relative="1" as="geometry">
+            <mxPoint x="280" y="350" as="sourcePoint" />
+            <mxPoint x="70" y="350" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9ga1v2wnevFFHqzPRlr-14" value="Người dùng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="10" y="140" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
