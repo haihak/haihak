@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T12:39:17.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="WGIOIY6lcqxJqhbwMB7_" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T12:55:50.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="h1VaXK3PrPuGeGDc1GbM" version="15.9.4" type="github">
   <diagram id="W_0u3TCXlt2y3ElXl8L4" name="Page-1">
     <mxGraphModel dx="2105" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,20 +19,20 @@
         <mxCell id="emeGWKnOM9Sui3QthaXl-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="emeGWKnOM9Sui3QthaXl-3" vertex="1">
           <mxGeometry x="45" y="50" width="10" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="emeGWKnOM9Sui3QthaXl-4" value=":Đăng nhập&lt;br&gt;DataAccess" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="emeGWKnOM9Sui3QthaXl-4" value=":Đăng nhập&lt;br&gt;BusinesssLogic" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="40" width="100" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="emeGWKnOM9Sui3QthaXl-5" value=":Đăng nhập&lt;br&gt;Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="emeGWKnOM9Sui3QthaXl-5" value=":Đăng nhập&lt;br&gt;DataAccess" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="40" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="emeGWKnOM9Sui3QthaXl-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="emeGWKnOM9Sui3QthaXl-5" vertex="1">
-          <mxGeometry x="50" y="250" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="250" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="emeGWKnOM9Sui3QthaXl-16" value="Kiểm tra" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="emeGWKnOM9Sui3QthaXl-5" target="emeGWKnOM9Sui3QthaXl-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="230" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85" y="230" />
+              <mxPoint x="75" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
