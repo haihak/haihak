@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T12:39:22.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="XrSZ1QcsVF-v1BhiIVv8" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T13:02:34.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="LOsqWx1Wuye5d0kZ9G5Q" version="15.9.4" type="github">
   <diagram id="u3xu3ZwD2KMhqAbnVQfo" name="Page-1">
     <mxGraphModel dx="1504" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="ndUAwhBKYh-yHIxpzxnG-51" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="ndUAwhBKYh-yHIxpzxnG-4" vertex="1">
           <mxGeometry x="45" y="450" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ndUAwhBKYh-yHIxpzxnG-5" value=":QLTK&lt;br&gt;DataAccess" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="ndUAwhBKYh-yHIxpzxnG-5" value=":QLTK&lt;br&gt;BusinesssLogic" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="240" width="100" height="680" as="geometry" />
         </mxCell>
         <mxCell id="ndUAwhBKYh-yHIxpzxnG-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="ndUAwhBKYh-yHIxpzxnG-5" vertex="1">
@@ -61,11 +61,11 @@
             <mxPoint x="-110" y="579.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndUAwhBKYh-yHIxpzxnG-6" value=":QLHP&lt;br&gt;Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="ndUAwhBKYh-yHIxpzxnG-6" value=":QLHP&lt;br&gt;DataAccess" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="240" width="100" height="680" as="geometry" />
         </mxCell>
         <mxCell id="ndUAwhBKYh-yHIxpzxnG-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="ndUAwhBKYh-yHIxpzxnG-6" vertex="1">
-          <mxGeometry x="50" y="240" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="240" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndUAwhBKYh-yHIxpzxnG-30" value="Update()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="ndUAwhBKYh-yHIxpzxnG-6" target="ndUAwhBKYh-yHIxpzxnG-29" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ndUAwhBKYh-yHIxpzxnG-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="ndUAwhBKYh-yHIxpzxnG-6" vertex="1">
-          <mxGeometry x="50" y="320" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="320" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndUAwhBKYh-yHIxpzxnG-32" value="Add()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="ndUAwhBKYh-yHIxpzxnG-6" target="ndUAwhBKYh-yHIxpzxnG-31" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ndUAwhBKYh-yHIxpzxnG-54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="ndUAwhBKYh-yHIxpzxnG-6" vertex="1">
-          <mxGeometry x="50" y="520" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="520" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndUAwhBKYh-yHIxpzxnG-55" value="Delete()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="ndUAwhBKYh-yHIxpzxnG-6" target="ndUAwhBKYh-yHIxpzxnG-54" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -173,7 +173,7 @@
           <mxGeometry x="475" y="520" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ndUAwhBKYh-yHIxpzxnG-43" value="Điều kiện" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="430" width="540" height="180" as="geometry" />
+          <mxGeometry x="180" y="430" width="540" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ndUAwhBKYh-yHIxpzxnG-44" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
