@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T12:39:44.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="ysXYYq3A61ip6pCunVIC" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T13:02:42.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="kGIzXMUpOi05wrw-gX6b" version="15.9.4" type="github">
   <diagram id="FUUPt-bxKS8C08X-SBZ4" name="Page-1">
-    <mxGraphModel dx="2331" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2331" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
         <mxCell id="Qr04906kfoDEqF0yH-FU-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Qr04906kfoDEqF0yH-FU-3" vertex="1">
           <mxGeometry x="45" y="210" width="10" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="Qr04906kfoDEqF0yH-FU-7" value=":ĐMK DataAccess" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="Qr04906kfoDEqF0yH-FU-7" value=":ĐMK BusinesssLogic" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="200" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="Qr04906kfoDEqF0yH-FU-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Qr04906kfoDEqF0yH-FU-7" vertex="1">
@@ -38,7 +38,7 @@
         <mxCell id="Qr04906kfoDEqF0yH-FU-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Qr04906kfoDEqF0yH-FU-7" vertex="1">
           <mxGeometry x="45" y="210" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Qr04906kfoDEqF0yH-FU-10" value=":ĐMK DataBase" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="Qr04906kfoDEqF0yH-FU-10" value=":ĐMK DataAccess" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="200" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="Qr04906kfoDEqF0yH-FU-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Qr04906kfoDEqF0yH-FU-10" vertex="1">
