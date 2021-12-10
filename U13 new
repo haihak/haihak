@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T13:35:03.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="vCY9ixuCieWazfwZujWn" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T13:37:20.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="y0uHbwbSnUgL_6TIC7Kz" version="15.9.4" type="github">
   <diagram id="FUUPt-bxKS8C08X-SBZ4" name="Page-1">
     <mxGraphModel dx="2105" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,14 +43,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qr04906kfoDEqF0yH-FU-13" value="BtnDoiMK()" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+        <mxCell id="Qr04906kfoDEqF0yH-FU-13" value="BtnDoiMKClick()" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry x="-0.0588" y="10" width="160" relative="1" as="geometry">
             <mxPoint x="300" y="300.0000000000001" as="sourcePoint" />
             <mxPoint x="480" y="300.0000000000001" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qr04906kfoDEqF0yH-FU-16" value="btnXacNhan()" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+        <mxCell id="Qr04906kfoDEqF0yH-FU-16" value="btnXacNhanClick()" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry x="-0.125" y="10" width="160" relative="1" as="geometry">
             <mxPoint x="305" y="420" as="sourcePoint" />
             <mxPoint x="485" y="420" as="targetPoint" />
@@ -113,13 +113,13 @@
         <mxCell id="Qr04906kfoDEqF0yH-FU-32" value="Sinh Viên" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-5" y="170" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OQhXwhBHIeIcN3HgiNSv-1" value="btnTaIKhoan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="250" width="80" height="20" as="geometry" />
+        <mxCell id="OQhXwhBHIeIcN3HgiNSv-1" value="btnTaIKhoanClick" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="95" y="250" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OQhXwhBHIeIcN3HgiNSv-2" value="ThongTinSVForm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OQhXwhBHIeIcN3HgiNSv-2" value="ThongTinSVForm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="330" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OQhXwhBHIeIcN3HgiNSv-4" value="return status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OQhXwhBHIeIcN3HgiNSv-4" value="return status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="500" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
