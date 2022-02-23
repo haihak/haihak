@@ -1,0 +1,8 @@
+D:\download\Mau thiet ke\Factory\AFactory\bin\Debug\AFactory.exe.config
+D:\download\Mau thiet ke\Factory\AFactory\bin\Debug\AFactory.exe
+D:\download\Mau thiet ke\Factory\AFactory\bin\Debug\AFactory.pdb
+D:\download\Mau thiet ke\Factory\AFactory\obj\Debug\AFactory.csproj.AssemblyReference.cache
+D:\download\Mau thiet ke\Factory\AFactory\obj\Debug\AFactory.csproj.SuggestedBindingRedirects.cache
+D:\download\Mau thiet ke\Factory\AFactory\obj\Debug\AFactory.csproj.CoreCompileInputs.cache
+D:\download\Mau thiet ke\Factory\AFactory\obj\Debug\AFactory.exe
+D:\download\Mau thiet ke\Factory\AFactory\obj\Debug\AFactory.pdb

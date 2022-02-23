@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "83499e55-767a-45d6-aaf6-e837a59093a5": {
+      "ProjectGuid": "83499e55-767a-45d6-aaf6-e837a59093a5",
+      "DisplayName": "Factory",
+      "ColorIndex": 0
+    },
+    "40c87483-eab9-4c6f-92ca-42b9a9251741": {
+      "ProjectGuid": "40c87483-eab9-4c6f-92ca-42b9a9251741",
+      "DisplayName": "AFactory",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
