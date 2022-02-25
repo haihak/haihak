@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T06:29:06.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="v2kRFJ_xPiBBPLm-n_MP" version="16.1.0" type="github"><diagram id="lPKtIWz-gKSwGddJSMTV" name="Page-1">7VhNc5swEP01OrYDCAwcbewkB7uTGU+/jhqjAikgKss29NdXwALGBI+djqPMJCezTytp9fbtCoOwl+T3nGThivk0Robm5wjPkWHohu3InxIpasQy7RoIeOSDUweso78UQA3QXeTTbc9RMBaLKOuDG5amdCN6GOGcHfpuv1jc3zUjAR0A6w2Jh+j3yBdhjTqG3eEPNArCZmd94tYjCWmc4STbkPjscAThBcIeZ0zUT0nu0bgkr+Glnnc3MtoGxmkqLpmw9H4nf4z8YZpb1Py6/DJf+eYnC2ITRXNg6svzg8m4CFnAUhIvOnTG2S71abmqJq3OZ8lYJkFdgk9UiAKSSXaCSSgUSQyjMmBe/Cjnf7Ya8ycsVxnzvGcVYNWxlgGOUgDQlu34hp45dyMlwgMqzvjhNlFS4ZQlVMYj53EaExHt+3EQkFrQ+nXZkA+QkCuSM1GRHAUkmypJhnX3JN7BTo+cBZwkA/L71B7CSNB1RioGDrL5PUfjnnJB8/NEDg8OE7ANnQNap26Cfegakd50l/CoCU20G3Flv9NugS8UsvufQoapjyySEbY6aPMOOsDOSX7ruGBWl+Ip56Q4cstKh+34Pm5/m8a+u8y9iarTV71/p7aWkZcL0PkQ4FkB6tpNFNgq7sYKxNZZCd5GU3hwASDPRHLnhY5mM+S6aVAOV+YUTedlvGb5xhkiD6OpkSq/KPSTi6K9AJRdFDp+p4VqXlqoIxm9rlCvrS8LK6gv8wX1Zbyp+rJOb0bl9eUOOPUqtmbDunttssZeVtT1Im1A1qpSlsOUkzX2EqWQreH/ofuKLU05Wab95sgyBmR9g7bmzIRywmzj9QiTZvcpq746ug+CePEP</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-25T06:29:20.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="CLWe2ASXcxTi53hVQfUS" version="16.1.0" type="github">
+  <diagram id="lPKtIWz-gKSwGddJSMTV" name="Page-1">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LCkmq2xHAx5e4ULNDMd4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LCkmq2xHAx5e4ULNDMd4-1" target="LCkmq2xHAx5e4ULNDMd4-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LCkmq2xHAx5e4ULNDMd4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LCkmq2xHAx5e4ULNDMd4-1" target="LCkmq2xHAx5e4ULNDMd4-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LCkmq2xHAx5e4ULNDMd4-1" value="Program" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LCkmq2xHAx5e4ULNDMd4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LCkmq2xHAx5e4ULNDMd4-3" target="LCkmq2xHAx5e4ULNDMd4-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="290" />
+              <mxPoint x="90" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCkmq2xHAx5e4ULNDMd4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LCkmq2xHAx5e4ULNDMd4-3" target="LCkmq2xHAx5e4ULNDMd4-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCkmq2xHAx5e4ULNDMd4-3" value="Động vật 4 chân" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LCkmq2xHAx5e4ULNDMd4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LCkmq2xHAx5e4ULNDMd4-4" target="LCkmq2xHAx5e4ULNDMd4-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cgBlLQtdoePojeMNcf7g-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LCkmq2xHAx5e4ULNDMd4-4" target="LCkmq2xHAx5e4ULNDMd4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LCkmq2xHAx5e4ULNDMd4-4" value="Động vật 2 chân" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LCkmq2xHAx5e4ULNDMd4-9" value="Chó" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LCkmq2xHAx5e4ULNDMd4-10" value="Mèo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LCkmq2xHAx5e4ULNDMd4-11" value="Gà" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LCkmq2xHAx5e4ULNDMd4-12" value="Vịt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
