@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T02:32:05.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="8abmbZSAGydSUiBpqvII" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T02:32:21.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="hnnEiubS0zMqWsXkasX-" version="17.1.3" type="github">
   <diagram id="hpItlcKNqfIDn2qF35Ql" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,13 +41,13 @@
           <mxGeometry x="45" y="195" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XHGFNi-8rhCAyEHNkbib-13" value="" style="line;strokeWidth=2;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="50" y="90" width="150" height="10" as="geometry" />
+          <mxGeometry x="50" y="90" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="XHGFNi-8rhCAyEHNkbib-14" value="Trang chủ admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="90" y="107.5" width="80" height="15" as="geometry" />
         </mxCell>
         <mxCell id="XHGFNi-8rhCAyEHNkbib-15" value="" style="line;strokeWidth=2;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="50" y="130" width="140" height="10" as="geometry" />
+          <mxGeometry x="50" y="130" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="XHGFNi-8rhCAyEHNkbib-16" value="Loại danh mục" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="90" y="170" width="70" height="10" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="90" y="267.5" width="100" height="15" as="geometry" />
         </mxCell>
         <mxCell id="XHGFNi-8rhCAyEHNkbib-19" value="" style="line;strokeWidth=2;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="50" y="230" width="140" height="10" as="geometry" />
+          <mxGeometry x="50" y="230" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="XHGFNi-8rhCAyEHNkbib-20" value="Quản trị danh mục" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="45" y="140" width="95" height="20" as="geometry" />
