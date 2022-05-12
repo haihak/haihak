@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T13:10:16.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="aP49pEUds1icJhjeJUNo" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T13:52:51.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="11BKUdOITn_1GH3YKxTD" version="18.0.3" type="github">
   <diagram id="jsHQ4-ddP4-YasCozm9-" name="Page-1">
     <mxGraphModel dx="1038" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="XfeyUz8fJHatc09qB0Cr-22" value="Tất cả sản phẩm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="60" y="110" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XfeyUz8fJHatc09qB0Cr-23" value="cbbPhanLoai" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-23" value="cbbclassify" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="609" y="115" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XfeyUz8fJHatc09qB0Cr-24" value="ProductItem2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
@@ -103,7 +103,7 @@
         <mxCell id="XfeyUz8fJHatc09qB0Cr-35" value="ProductItem13" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="610" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XfeyUz8fJHatc09qB0Cr-36" value="btnChuyenTrang" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-36" value="btnNextPage" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="99" y="480" width="191" height="20" as="geometry" />
         </mxCell>
       </root>
