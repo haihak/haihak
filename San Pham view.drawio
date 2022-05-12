@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T12:42:44.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="18.0.3" etag="gYXd2ZLhfdGs5UdpWWor" type="github"><diagram id="jsHQ4-ddP4-YasCozm9-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-12T13:00:08.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="2pNrL5OrQ21IOn-963g-" version="18.0.3" type="github">
+  <diagram id="jsHQ4-ddP4-YasCozm9-" name="Page-1">
+    <mxGraphModel dx="1038" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="760" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-2" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Image Logo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-3" value="Hbutton" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="60" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-4" value="Pbutton" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="60" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-5" value="Abutton" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-6" value="ACbutton" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-7" value="Cartbtn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="760" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-9" value="Tải Ứng Dụng Của Chúng Tôi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="550" width="140" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-10" value="Tải Ứng Dụng bằng Android và IOS dành cho điện thoại" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="38" y="564" width="260" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-12" value="TextSuggestion" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="585" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-13" value="TextSuggestion2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="170" y="585" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-14" value="Image Logo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="350" y="564" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-15" value="Đường Dẫn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="515" y="544" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-17" value="TextLink1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="574" width="70" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-18" value="TextLink2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="600" width="70" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-19" value="Follow Chúng tôi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="660" y="544" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-20" value="TextLinkApp1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="665" y="574" width="70" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="XfeyUz8fJHatc09qB0Cr-21" value="TextLinkApp2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="665" y="600" width="70" height="21" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
